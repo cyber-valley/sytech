@@ -1,0 +1,2 @@
+alias:: peas
+tags:: species

@@ -1,0 +1,37 @@
+type:: sector
+
+- connected to [[edem/sectors]]
+	- [[edem/00]]
+	- [[edem/02]]
+- [[mangifera indica]] [[guild]]
+	- TODO add [[nitrogener]]: [[arachis hypogaea]], [[lupinus]], [[medicago sativa]]
+	- [[ficus fistulosa]]
+	- [[sambucus nigra]]
+	- [[symphytum officinale]]
+	- [[melissa officinalis]]
+	- [[colocasia esculenta]]
+	- [[sowthistle]]
+	- [[ageratina riparia]]
+	- [[melastoma malabathricum]]
+	- [[debregeasia longifolia]]
+	- ![image.png](../assets/image_1713768725210_0.png)
+- [[inga edilus]] [[guild]]
+- [[olea europaea]] [[guild]]
+	- [[anethum graveolens]]
+- [[citrus sinensis]] [[guild]]
+	- [[perennial]]: [[tagetes lucida]], [[melissa officinalis]], [[lemongrass]], [[begonia]]
+	- [[annual]]: [[chia]]
+	- TODO: protect from pests: [[yarrow]], [[anethum graveolens]], [[coriandrum sativum]], [[cosmo]], [[foeniculum vulgare]], [[dandelions]]
+- [[nephelium lappaceum]] [[guild]]
+	- coriander
+	- celery
+	- [[rosemary]]
+- [[syzygium samarangense]] [[guild]]
+	- rosemary
+	- thyme
+	- [[melissa]]
+	- [[melissa officinalis]]
+- [[flacourtia indica]] [[guild]]
+	- [[ocimum africanum]]
+-
+	-

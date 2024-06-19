@@ -1,0 +1,2 @@
+alias:: pepper
+tags:: species

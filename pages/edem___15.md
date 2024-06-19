@@ -1,0 +1,23 @@
+type:: sector
+
+- connected to [[edem/sectors]]
+	- [[edem/07]]
+	- [[edem/14]]
+	- [[edem/16]]
+- [[annona muricata]]
+- [[magnolia cempaka]]
+- [[citrus sinensis]]
+- [[dracaena sanderiana]]
+- [[albizia julibrissin]]
+- [[camellia japonica]]
+- [[codiaeum variegatum]]
+- [[mussaenda philippica]]
+- [[persea americana]]
+- [[citrus sinensis]]
+- [[casuarina equisetifolia]]
+- [[asplenium nidus]]
+- [[pleroma semidecandrum]]
+- [[alpinia purpurata]]
+- [[jasminum sambac]]
+- [[thuja occidentale]]
+- [[phyllanthus acidus]]: 4

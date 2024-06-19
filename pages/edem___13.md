@@ -1,0 +1,27 @@
+type:: sector
+
+- connected to [[edem/sectors]]
+	- [[edem/12]]
+	- [[edem/14]]
+- [[platycladus orientalis]]
+- [[pouteria campechiana]]
+- [[alocasia cucullata]]
+- [[bambusa multiplex]]
+- [[schizolobium parahyba]]
+- [[unknown plant]]
+- [[syzygium myrtifolium]]
+- [[ixora coccinea]]
+- [[crescentia cujete]]
+- [[araucaria heterophylla]]
+- [[zamioculcas zamiifolia]]
+- [[equisetum hyemale]]
+- [[cordyline fruticosa]]
+- [[azadirachta indica]]
+- [[melaleuca viminalis]]
+- [[plinia cauliflora]]
+- [[carica papaya]]
+-
+- 3: [[annona muricata]]
+- 5: [[muntingia calabura]]
+- 6: [[lycium barbarum]]
+- [[carica papaya]]: 3

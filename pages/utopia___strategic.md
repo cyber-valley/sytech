@@ -1,0 +1,18 @@
+tags:: species
+- [[abies sibirica]]
+- [[acacia senegal]]
+- [[alnus rubra]]
+- [[acer saccharum]]
+- [[commiphora myrrha]]
+- [[betula]]
+- [[cannabis]]
+- [[ceratonia siliqua]]
+- [[erythroxylum coca]]
+- [[paullinia cupana]]
+- [[protium copal]]
+- [[pterocarpus santalinus]]
+- [[pueraria montana]]
+- [[sequoiadendron giganteum]]
+-
+- ((664f623d-9bf5-43c4-b178-c485196ce6d6))
+- ((664f00bf-4a50-4bee-9980-01c24257fe47))

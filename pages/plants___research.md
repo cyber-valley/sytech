@@ -1,0 +1,16 @@
+tags:: species
+- list of plants i currently actively researching
+- if you are looking for info about methods of research: [[research/plants]]
+- [flora fauna web](https://www.nparks.gov.sg/florafaunaweb/species-search)
+- [plantsofasia](http://www.plantsofasia.com/index/latinskie_nazvanija_rastenij/0-1182)
+-
+- [[plants/genus]]
+- [[plants/species]]
+	-
+- [[plants/psycho]]
+- [[utopia/strategic]]
+-
+- [[plants/rare]]
+-
+- [[plants/from]]
+- [[seed sources]]

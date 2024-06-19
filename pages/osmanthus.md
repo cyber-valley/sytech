@@ -1,0 +1,15 @@
+tags:: genus, species
+alias:: osmanthus fragrans
+
+- {{embed [[osmanthus fragrans]]}}
+- ![image.png](../assets/image_1713842467362_0.png){:height 553, :width 908}
+-
+- products
+	- [[flower]]
+		- [[plants/health]]
+		- 2 kg/tree/year
+		- 500 $USDT/kg
+		-
+	- [[leave]]
+	- [[fruit]]
+-

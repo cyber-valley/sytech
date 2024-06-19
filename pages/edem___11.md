@@ -1,0 +1,24 @@
+type:: sector
+
+- connected to [[edem/sectors]]
+	- [[edem/10]]
+	- [[edem/12]]
+- [[platycladus orientalis]] [[guild]]
+- [[plinia cauliflora]] [[guild]]
+- [[morus nigra]]
+- [[calliandra tergemina]]
+- [[breynia disticha]]
+- [[murraya paniculata]]
+- [[talinum fruticosum]]
+- [[ixora coccinea]]
+- [[xanthostemon chrysanthus]] ?
+- [[brunfelsia uniflora]] ?
+- [[syzygium aqueum]] ?
+- [[diospyros nigra]]
+- [[vachellia karroo]]
+-
+-
+- [[dimocarpus longan]]
+- [[melaleuca alternifolia]]
+- [[orthosiphon aristatus]]
+-

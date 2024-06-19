@@ -1,0 +1,42 @@
+alias:: fragrant
+tags:: species
+- ![Austroeupatorium inulifolium (Kunth) R.M.King & H.Rob. | Plants of the  World Online | Kew Science](https://d2seqvvyy3b8p2.cloudfront.net/067338f778e6183bccfc5ae8b13f0cce.jpg)
+- very talented bush
+	- can grow to a 3 meter bush in 3 months
+	- accumulates up to 5% of nitrogen
+	- strong [[allelopathic]] properties
+	- very invasive: likely kill half of your vegetation in 24 months if uncontrolled
+- research
+	- ![fragrant source of manure](../assets/fragrant_source_of_manure_1698056598795_0.pdf)
+		- a low C/N ratio i.e. 11.2. in leaf material, indicating
+		- it as suitable for compost making or to use as a green manure
+			- 3.15% - N
+			- 2.0% - K
+			- 35.3% - organic carbon
+		- produce about 0.75 kg of biomass per shrub
+		- 20.000-30.000 plants per ha
+		- 15-22 t/ha pf biomass from 1 loop
+	- ![fragrant contents](../assets/fragrant-contents_1698109578504_0.pdf)
+	- [nine new norlabdane diterpenoids](https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.201000207)
+	- [sub-lethal concentrations of fragrant essential oil and its effect on fungal growth](https://www.sciencedirect.com/science/article/abs/pii/S0926669016302965)
+		- the use of sub-lethal concentrations of fragrant essential oil to increase enzymatic activities in fungi
+			- great potential in the field of bioprospecting and biotech
+	- ![austroeupatorium inulifolium in korea. kunth king robinson](../assets/Austroeupatorium_inulifolium_Kunth_King_Robinson_A_1698055463528_0.pdf)
+	- ![investigating fragrant ecology](../assets/investigating_fragrant_ecology_1698056496987_0.pdf)
+		- ecosystems with frequent fire incidents could be more vulnerable towards invasion by fragrant
+	- ![phytotoxicity cytotoxicity antioxidant fragrant](../assets/phytotoxicity-cytotoxicity-antioxidant-fragrant_1698056334619_0.pdf)
+		- suppress growth of competing plants
+- good products
+	- crazy cool smell, but smell do not persist
+	- probably good [[honey]]
+	- attractive for [[birds]]
+	- [[compost]]
+	- useful oil
+		- antifungal
+		- antimicrobial
+	- hedge
+	- strengthen slopes
+	- surpass [[imperata cylindrica]]
+- bad products
+	- toxic for cattle
+	- inhibit growth of other plants

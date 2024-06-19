@@ -1,0 +1,35 @@
+type:: sector
+
+- connected to [[edem/sectors]]
+	- [[edem/15]]
+	- [[edem/17]]
+- [[casuarina equisetifolia]]
+- [[chrysanthemum morifolium]]
+- [[inga edilus]]
+- [[juniperus virginiana]]
+- [[juniperus virginiana]]
+- [[juniperus virginiana]]
+- [[prunus domestica]]
+- [[syzygium samarangence]]
+- [[syzygium samarangence]] jamaica
+- [[eugenia uniflora]]
+- [[pyrus communis]]
+- [[ficus carica]]
+- [[mangifera indica]] miazaki
+- [[mangifera indica]] miazaki
+- [[calliandra angustifolia]]
+- [[prunus amygdalus]]
+- [[elaeagnus pungens]]
+- [[azadirachta indica]]
+- [[mangifera indica]] irwin
+- [[mangifera indica]] irwin
+- [[eriobotrya japonica]]
+- [[psidium guajava]] crystal
+- [[malus pumila]]
+- [[caliandra houstoniana]]
+- [[caliandra houstoniana]]
+- [[trema orientalis]]
+- [[melastoma malabathricum]]
+- [[averrhoa carambola]]
+- [[acacia podalyriifolia]]
+- [[debregeasia longifolia]]: 5

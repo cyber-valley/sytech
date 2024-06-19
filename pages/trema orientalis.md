@@ -1,0 +1,23 @@
+alias:: mengkirai, ganja tree
+tags:: species
+- nitrogener:: 100
+- [wiki](https://en.wikipedia.org/wiki/Trema_orientale)
+- https://apps.worldagroforestry.org/treedb/AFTPDFS/Trema_orientalis.PDF
+- uses
+	- TODO contain [[thc]]
+	- [[nitrogen fixers]]
+	- TODO check thc availability [research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8126263/)
+	- bark and leaves
+		- general antidote to poisons
+		- anti-plasmodium properties
+		- vermifuge
+		- coughs
+		- sore throats
+		- asthma
+		- bronchitis
+		- gonorrhea
+		- yellow fever
+		- toothache
+	- wood
+		- off-white or tinged with pink
+		- fine-grained, soft, light and of low durability

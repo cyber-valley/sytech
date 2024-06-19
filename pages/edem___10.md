@@ -1,0 +1,18 @@
+type:: sector
+
+- connected to [[edem/sectors]]
+	- [[edem/09]]
+	- [[edem/11]]
+- [[cinnamomum verum]] [[guild]]
+- [[persea americana]] [[guild]]
+	- [[thunbergia mysorensis]]
+	- [[clerodendrum thomsoniae]]
+	- [[mansoa alliacea]]
+- [[inga edilus]] [[guild]]
+- [[stevia rebaudiana]]
+- [[loropetalum chinense]] [[guild]]
+- [[coleus scutellarioides]]
+- [[graptophyllum pictum]]
+- [[inga edilus]] [[guild]]
+- [[mangifera indica]] [[guild]]
+- [[lantana camara]] [[guild]]
