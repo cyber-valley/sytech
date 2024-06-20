@@ -8,8 +8,7 @@
 - TODO mapping of plants
 - [[edem/guilds]]
 - [[edem/sectors]]
-	- [[edem/00]]
-	- [[edem/01]]
+	- example [[edem/01]]
 - TODO [[plants/research]] available in indonesia
 - [[plant/deseases]]
 - [[seeds]]
