@@ -1,2 +1,3 @@
 - ![Bornyl_acetate.pdf](../assets/Bornyl_acetate_1719039644164_0.pdf)
+- [[antiinflomation]]
 -
