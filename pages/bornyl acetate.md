@@ -4,7 +4,7 @@
 - [[antioxidant]] https://onlinelibrary.wiley.com/doi/abs/10.1111/ics.12069
 - [[anti-rheumatoid]] https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/iub.1338
 - [[neuroprotective]] https://www.sciencedirect.com/science/article/abs/pii/S0944711322006572
-- [[calming]] -
+- [[calming]]
 	- bornyl acetate induces autonomic relaxation: bornyl acetate has a calming effect on the autonomic nervous system. the autonomic nervous system controls involuntary body functions, such as heart rate, digestion, and respiratory rate. autonomic relaxation implies a reduction in stress and anxiety, leading to a state of calmness.
 	- reduces arousal level: arousal level refers to the state of being alert, awake, and attentive. reducing arousal level means lowering the body's state of alertness and vigilance, which can help in achieving a more relaxed state.
 	- after visual display terminal work: visual display terminal (vdt) work refers to tasks that involve using computer screens or other electronic displays for extended periods. this kind of work can often lead to eye strain, fatigue, and mental stress.
