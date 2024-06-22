@@ -3,5 +3,6 @@
 - [[anti-cancer]] https://avesis.bozok.edu.tr/yayin/97cf9f55-4c1f-4f32-8aff-69034918ee6c/inhibition-of-various-cancer-cells-proliferation-of-bornyl-acetate-and-essential-oil-from-inula-graveolens-linnaeus-desf
 - [[antioxidant]] https://onlinelibrary.wiley.com/doi/abs/10.1111/ics.12069
 - [[anti-rheumatoid]] https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/iub.1338
+- [[neuroprotective]] https://www.sciencedirect.com/science/article/abs/pii/S0944711322006572
 -
 -
