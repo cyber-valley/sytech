@@ -5,7 +5,7 @@ tags:: species
 - ## chemical compounds
 	- | chemical compound  | plant part             | amount         | description                                                                                                                                                  |
 	  |--------------------|------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-	  | bornyl acetate     | needles (essential oil)| 28-40%         | provides a pine-like aroma, has anti-inflammatory and analgesic properties. overuse can cause skin irritation and sensitization.                             |
+	  | [[bornyl acetate]]     | needles (essential oil)| 28-40%         | provides a pine-like aroma, has anti-inflammatory and analgesic properties. overuse can cause skin irritation and sensitization.                             |
 	  | camphene           | needles (essential oil)| 15-25%         | has antimicrobial and antioxidant properties, but can cause skin and eye irritation if used excessively.                                                     |
 	  | α-pinene           | needles (essential oil)| 10-20%         | exhibits anti-inflammatory and bronchodilator effects. excessive inhalation can cause respiratory irritation.                                                |
 	  | β-pinene           | needles (essential oil)| 5-15%          | has similar properties to α-pinene, including anti-inflammatory and antimicrobial effects. overuse may lead to skin sensitization.                           |
