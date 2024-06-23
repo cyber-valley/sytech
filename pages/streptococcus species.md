@@ -18,10 +18,9 @@
 			- **meningitis:** inflammation of the membranes covering the brain and spinal cord, potentially life-threatening.
 			- **bacteremia:** bloodstream infections that can lead to sepsis.
 	- 4. **viridans group streptococci:**
-	- **endocarditis:** infection of the inner lining of the heart, often in individuals with pre-existing heart conditions.
-	- **dental caries:** some species contribute to tooth decay.
-	  
-	  5. **streptococcus mutans:**
+		- **endocarditis:** infection of the inner lining of the heart, often in individuals with pre-existing heart conditions.
+		- **dental caries:** some species contribute to tooth decay.
+	- 5. **streptococcus mutans:**
 	- **dental caries (tooth decay):** significant contributor to the development of cavities.
 	  
 	  **habitats and transmission:**
