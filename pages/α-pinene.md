@@ -17,10 +17,10 @@
 			- **[[pseudomonas aeruginosa]]**: α-pinene is effective against this opportunistic pathogen that can cause infections in individuals with weakened immune systems.
 			- **[[helicobacter pylori]]**: effective in inhibiting this bacterium, which is associated with peptic ulcers and gastric cancer.
 		- #### fungi
-		- **candida albicans**: α-pinene has antifungal properties against this yeast, which can cause oral and genital infections, as well as systemic infections in immunocompromised individuals.
-		- **aspergillus niger**: effective against this fungus, which can cause respiratory infections, particularly in individuals with weakened immune systems.
-		- **trichophyton rubrum**: known for causing athlete's foot, ringworm, and other dermatophyte infections.
-		- **penicillium chrysogenum**: α-pinene can inhibit the growth of this fungus, which is important as it can produce mycotoxins that are harmful to humans.
+			- **[[candida albicans]]**: α-pinene has antifungal properties against this yeast, which can cause oral and genital infections, as well as systemic infections in immunocompromised individuals.
+			- **[[aspergillus niger]]**: effective against this fungus, which can cause respiratory infections, particularly in individuals with weakened immune systems.
+			- **[[trichophyton rubrum]]**: known for causing athlete's foot, ringworm, and other dermatophyte infections.
+			- **penicillium chrysogenum**: α-pinene can inhibit the growth of this fungus, which is important as it can produce mycotoxins that are harmful to humans.
 - #### bronchodilator effects
   α-pinene is known for its bronchodilator effects, which means it can help expand the airways in the respiratory system. this property is particularly beneficial for patients with asthma and other respiratory conditions.
 - #### pain relief
