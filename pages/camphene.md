@@ -53,9 +53,9 @@
 - #### 4. [[lipid metabolism regulation]]
 	- studies suggest that camphene can help regulate lipid metabolism. it has been shown to reduce blood [[cholesterol levels]], which can be beneficial in managing cardiovascular diseases.
 	- **mechanism:** it affects lipid metabolism pathways and reduces the synthesis of cholesterol in the liver.
-- #### 5. respiratory benefits
-  camphene is used in aromatherapy and in formulations for treating respiratory conditions like bronchitis and congestion. its decongestant properties help in relieving symptoms associated with respiratory tract infections.
-- **mechanism:** it acts as an expectorant, helping to clear mucus from the respiratory tract.
+- #### 5. [[respiratory benefits]]
+	- camphene is used in aromatherapy and in formulations for treating respiratory conditions like [[bronchitis]] and congestion. its decongestant properties help in relieving symptoms associated with respiratory tract infections.
+	- **mechanism:** it acts as an expectorant, helping to clear mucus from the respiratory tract.
 - ### research and evidence
   
   1. **anti-inflammatory and antioxidant studies:**
