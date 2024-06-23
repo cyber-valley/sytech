@@ -82,24 +82,21 @@ tags:: species
 		- helps alleviate respiratory issues like coughs and colds.
 - #### 2. siberian fir essential oil salve
 	- **ingredients**:
-- 1/4 cup siberian fir essential oil
-- 1/2 cup coconut oil
-- 1/4 cup beeswax pellets
-- 10 drops of lavender essential oil (optional)
-  
-  **instructions**:
-  1. melt the coconut oil and beeswax pellets in a double boiler over low heat.
-  2. once melted, remove from heat and let it cool slightly.
-  3. stir in the siberian fir essential oil and lavender essential oil.
-  4. pour the mixture into small jars or tins and let it cool completely.
-  5. store in a cool, dark place.
-  
-  **uses**:
-- apply to sore muscles and joints for pain relief.
-- use as a chest rub to relieve congestion.
+		- 1/4 cup siberian fir essential oil
+		- 1/2 cup coconut oil
+		- 1/4 cup beeswax pellets
+		- 10 drops of lavender essential oil (optional)
+	- **instructions**:
+		- 1. melt the coconut oil and beeswax pellets in a double boiler over low heat.
+		- 2. once melted, remove from heat and let it cool slightly.
+		- 3. stir in the siberian fir essential oil and lavender essential oil.
+		- 4. pour the mixture into small jars or tins and let it cool completely.
+		- 5. store in a cool, dark place.
+	- **uses**:
+	- apply to sore muscles and joints for pain relief.
+	- use as a chest rub to relieve congestion.
 - #### 3. siberian fir resin balm
-  
-  **ingredients**:
+	- **ingredients**:
 - 1/4 cup siberian fir resin
 - 1/2 cup olive oil
 - 1/4 cup beeswax pellets
