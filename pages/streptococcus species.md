@@ -21,7 +21,7 @@
 			- **[[endocarditis]]:** infection of the i[[nner lining of the heart]], often in individuals with pre-existing heart conditions.
 			- **[[dental caries]]:** some species contribute to tooth decay.
 		- 5. **streptococcus mutans:**
-			- **dental caries (tooth decay):** significant contributor to the development of cavities.
+			- **[[dental caries]] ([[tooth decay]]):** significant contributor to the development of cavities.
 	- **habitats and transmission:**
 		- **human body:** commonly found in the mouth, throat, intestines, and respiratory tract.
 		- **environment:** can survive on surfaces and objects, contributing to transmission.
