@@ -18,17 +18,17 @@
   camphene has been found to possess antimicrobial properties against a range of bacteria and fungi. this makes it potentially useful in treating infections and as a preservative in pharmaceutical formulations.
 - **mechanism:** it disrupts the cell membranes of microbes, leading to their death.
 	- #### bacteria
-	- **staphylococcus aureus**
+	- **[[staphylococcus aureus]]**
 		- common cause of skin infections, respiratory infections, and food poisoning.
-	- **escherichia coli**
+	- **[[escherichia coli]]**
 		- can cause urinary tract infections, gastroenteritis, and neonatal meningitis.
-	- **pseudomonas aeruginosa**
+	- **[[pseudomonas aeruginosa]]**
 		- known for causing infections in the blood, lungs (pneumonia), and other parts of the body after surgery.
-	- **salmonella typhimurium**
+	- **[[salmonella typhimurium]]**
 		- associated with food poisoning and gastroenteritis.
-	- **bacillus subtilis**
+	- **[[bacillus subtilis]]**
 		- generally non-pathogenic but can cause food spoilage and has been linked to foodborne illness.
-	- **listeria monocytogenes**
+	- **[[listeria monocytogenes]]**
 		- causes listeriosis, a serious infection usually caused by eating contaminated food.
 	- **methicillin-resistant staphylococcus aureus (mrsa)**
 		- a type of staph bacteria that's resistant to many antibiotics and can cause severe infections.
