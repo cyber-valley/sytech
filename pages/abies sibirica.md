@@ -64,5 +64,94 @@ tags:: species
 	  | phenolic compounds | timber, cones          | 0.1-1%         | have antioxidant properties and can protect against oxidative stress. high amounts can cause toxicity and potential health issues.                          |
 	  | polysaccharides    | cones                  | 1-2%           | have immunomodulatory and anti-inflammatory properties. generally safe but can cause digestive issues in high amounts.                                       |
 - availability:: unknown
+- ### traditional medicine recipes using abies sibirica (siberian fir)
+- #### 1. siberian fir needle tea
+  
+  **ingredients**:
+- a handful of fresh or dried siberian fir needles
+- 1 liter of water
+- honey or lemon (optional)
+  
+  **instructions**:
+  1. rinse the fir needles thoroughly.
+  2. bring the water to a boil in a pot.
+  3. add the fir needles to the boiling water and reduce the heat.
+  4. let the needles simmer for about 10-15 minutes.
+  5. strain the tea into a cup.
+  6. add honey or lemon to taste, if desired.
+  
+  **uses**:
+- boosts the immune system due to high vitamin c content.
+- helps alleviate respiratory issues like coughs and colds.
+- #### 2. siberian fir essential oil salve
+  
+  **ingredients**:
+- 1/4 cup siberian fir essential oil
+- 1/2 cup coconut oil
+- 1/4 cup beeswax pellets
+- 10 drops of lavender essential oil (optional)
+  
+  **instructions**:
+  1. melt the coconut oil and beeswax pellets in a double boiler over low heat.
+  2. once melted, remove from heat and let it cool slightly.
+  3. stir in the siberian fir essential oil and lavender essential oil.
+  4. pour the mixture into small jars or tins and let it cool completely.
+  5. store in a cool, dark place.
+  
+  **uses**:
+- apply to sore muscles and joints for pain relief.
+- use as a chest rub to relieve congestion.
+- #### 3. siberian fir resin balm
+  
+  **ingredients**:
+- 1/4 cup siberian fir resin
+- 1/2 cup olive oil
+- 1/4 cup beeswax pellets
+- 10 drops of eucalyptus essential oil (optional)
+  
+  **instructions**:
+  1. melt the siberian fir resin in a double boiler until it becomes liquid.
+  2. add the olive oil to the melted resin and mix well.
+  3. add the beeswax pellets and continue to heat until the beeswax is melted.
+  4. remove from heat and stir in the eucalyptus essential oil.
+  5. pour the mixture into small jars or tins and let it cool completely.
+  6. store in a cool, dark place.
+  
+  **uses**:
+- apply to cuts, scrapes, and minor wounds to promote healing.
+- use as a natural antiseptic and anti-inflammatory balm.
+- #### 4. siberian fir steam inhalation
+  
+  **ingredients**:
+- a handful of fresh or dried siberian fir needles
+- 1 liter of boiling water
+  
+  **instructions**:
+  1. place the fir needles in a large bowl.
+  2. pour the boiling water over the needles.
+  3. cover your head with a towel and lean over the bowl, creating a tent to trap the steam.
+  4. inhale the steam deeply for 10-15 minutes.
+  
+  **uses**:
+- helps clear nasal congestion and sinusitis.
+- provides relief from respiratory issues like bronchitis and colds.
+- #### 5. siberian fir infused oil
+  
+  **ingredients**:
+- a handful of fresh or dried siberian fir needles
+- 1 cup carrier oil (e.g., olive oil, jojoba oil)
+  
+  **instructions**:
+  1. rinse the fir needles thoroughly and let them dry.
+  2. place the needles in a clean, dry jar.
+  3. pour the carrier oil over the needles until they are fully submerged.
+  4. seal the jar tightly and place it in a warm, sunny spot for 2-4 weeks, shaking it occasionally.
+  5. strain the oil into a clean bottle.
+  
+  **uses**:
+- use as a massage oil to relieve muscle pain.
+- apply to the skin to soothe irritation and inflammation.
+  
+  these traditional medicine recipes utilize the beneficial properties of abies sibirica to support health and well-being. as with any natural remedy, it's important to consult with a healthcare professional before use, especially if you have any underlying health conditions or are pregnant or breastfeeding.
 - ![image.png](../assets/image_1717253759760_0.png){:height 391, :width 584}
 -
