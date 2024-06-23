@@ -2,6 +2,7 @@ alias:: siberian fir
 tags:: species
 
 - ![Screenshot 2024-06-23 at 05.34.43.png](../assets/Screenshot_2024-06-23_at_05.34.43_1719120961096_0.png)
+- ![Screenshot 2024-06-23 at 05.35.26.png](../assets/Screenshot_2024-06-23_at_05.35.26_1719120969686_0.png)
 -
 - ![Abies_sibirica.pdf](../assets/Abies_sibirica_1719038767754_0.pdf)
 - ### review of abies sibirica (siberian fir)
@@ -17,8 +18,6 @@ tags:: species
 - #### uses
 - **plants/fruits**: cones are used for extracting essential oils and resins.
 - **plants/greens**: needles are used for essential oil extraction and sometimes for medicinal purposes.
-- **plants/nuts**: not applicable as abies sibirica does not produce nuts.
-- **plants/grains**: not applicable as abies sibirica does not produce grains.
 - **plants/flowers**: not applicable as abies sibirica produces cones.
 - **plants/resins**: resins from the tree are used in traditional medicine and for making varnishes and adhesives.
 - **plants/timber**: the wood is used in construction, furniture making, and paper production.
