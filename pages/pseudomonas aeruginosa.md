@@ -3,10 +3,10 @@
 	- **diseases caused by pseudomonas aeruginosa:**
 	- 1. **respiratory infections:**
 		- **[[pneumonia]]:** especially in hospitalized patients, those with cystic fibrosis, or individuals on mechanical ventilation.
-		- **chronic lung infections:** commonly seen in patients with cystic fibrosis.
-	- 2. **urinary tract infections (utis):** often associated with catheter use in healthcare settings.
-	- 3. **wound and burn infections:** can cause severe infections in wounds, burns, and surgical sites, leading to delayed healing and complications.
-	- 4. **bacteremia:** bloodstream infections that can lead to sepsis, particularly in immunocompromised or critically ill patients.
+		- **[[chronic lung infections]]:** commonly seen in patients with [[cystic fibrosis]].
+	- 2. **[[urinary tract infections]] (utis):** often associated with catheter use in healthcare settings.
+	- 3. **wound and burn infections:** can cause severe infections in [[wounds]], [[burns]], and [[surgical site]]s, leading to delayed healing and complications.
+	- 4. **[[bacteremia]]:** bloodstream infections that can lead to sepsis, particularly in immunocompromised or critically ill patients.
 	- 5. **endocarditis:** infection of the heart's inner lining, particularly in intravenous drug users or those with pre-existing heart conditions.
 	- 6. **otitis externa (swimmer's ear):** infection of the outer ear canal, common in swimmers and individuals with ear trauma or chronic skin conditions.
 	- 7. **keratitis:** infection of the cornea, often associated with contact lens use or eye trauma.
