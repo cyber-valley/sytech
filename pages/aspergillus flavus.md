@@ -5,7 +5,7 @@
 			- **[[allergic bronchopulmonary aspergillosis]] (abpa):** an [[allergic reaction in the lungs]], common in people with [[asthma]] or [[cystic fibrosis]].
 			- **[[aspergilloma]] (fungus ball):** a growth of fungal mass in a pre-existing lung cavity, often in individuals with a history of tuberculosis or other lung diseases.
 			- **[[invasive aspergillosis]]:** a serious infection that occurs when aspergillus invades and damages tissues, primarily affecting immunocompromised individuals, leading to severe lung infections and potentially spreading to other organs.
-		- 2. **aflatoxicosis:** caused by ingestion of aflatoxins produced by aspergillus flavus, leading to liver damage, liver cancer, and immune suppression. aflatoxin exposure is a significant risk in regions where crops like peanuts, maize, and cottonseed are improperly stored.
+		- 2. **aflatoxicosis:** caused by ingestion of aflatoxins produced by aspergillus flavus, leading to [[liver damage]], [[liver cancer]], and immune suppression. aflatoxin exposure is a significant risk in regions where crops like [[peanut]]s, [[maize]], and [[cottonseed]] are improperly stored.
 	- **habitats and transmission:**
 		- **environment:** commonly found in soil, decaying vegetation, compost, and air. it thrives in warm, humid environments and can contaminate crops during growth, harvest, or storage.
 		- **transmission:** occurs through inhalation of airborne spores or ingestion of contaminated food products. direct human-to-human transmission is rare.
