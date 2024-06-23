@@ -55,13 +55,12 @@
 	- **mechanism:** it affects lipid metabolism pathways and reduces the synthesis of cholesterol in the liver.
 - #### 5. [[respiratory benefits]]
 	- camphene is used in aromatherapy and in formulations for treating respiratory conditions like [[bronchitis]] and congestion. its decongestant properties help in relieving symptoms associated with respiratory tract infections.
-	- **mechanism:** it acts as an expectorant, helping to clear mucus from the respiratory tract.
+	- **mechanism:** it acts as an expectorant, helping to clear [[mucus]] from the respiratory tract.
 - ### research and evidence
   
   1. **anti-inflammatory and antioxidant studies:**
 	- a study published in the *journal of natural products* reported significant anti-inflammatory and antioxidant activities of camphene in experimental models. [link to study](https://pubs.acs.org/doi/abs/10.1021/np1009629)
-	  
-	  2. **antimicrobial properties:**
+	- 2. **antimicrobial properties:**
 	- research in *phytotherapy research* highlighted camphene’s effectiveness against various bacterial and fungal strains, suggesting its potential as a natural antimicrobial agent. [link to study](https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.2046)
 	  
 	  3. **lipid metabolism:**
