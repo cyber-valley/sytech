@@ -7,20 +7,17 @@
 			- **impetigo:** a contagious skin infection causing sores and blisters.
 			- **necrotizing fasciitis:** a severe infection causing tissue death, often referred to as "flesh-eating disease."
 			- **rheumatic fever:** an inflammatory disease affecting the heart, joints, and nervous system, occurring after strep throat or scarlet fever.
-		- **glomerulonephritis:** inflammation of the kidney's filtering units.
-		  
-		  2. **streptococcus agalactiae (group b streptococcus):**
-	- **neonatal infections:** including sepsis, pneumonia, and meningitis in newborns.
-	- **urinary tract infections (utis):** especially in pregnant women.
-	- **skin and soft tissue infections:** particularly in elderly or immunocompromised individuals.
-	  
-	  3. **streptococcus pneumoniae:**
-	- **pneumonia:** leading cause of bacterial pneumonia, with symptoms like fever, cough, and difficulty breathing.
-	- **otitis media:** middle ear infections, common in children.
-	- **meningitis:** inflammation of the membranes covering the brain and spinal cord, potentially life-threatening.
-	- **bacteremia:** bloodstream infections that can lead to sepsis.
-	  
-	  4. **viridans group streptococci:**
+			- **glomerulonephritis:** inflammation of the kidney's filtering units.
+		- 2. **streptococcus agalactiae (group b streptococcus):**
+			- **neonatal infections:** including sepsis, pneumonia, and meningitis in newborns.
+			- **urinary tract infections (utis):** especially in pregnant women.
+			- **skin and soft tissue infections:** particularly in elderly or immunocompromised individuals.
+		- 3. **streptococcus pneumoniae:**
+			- **pneumonia:** leading cause of bacterial pneumonia, with symptoms like fever, cough, and difficulty breathing.
+			- **otitis media:** middle ear infections, common in children.
+			- **meningitis:** inflammation of the membranes covering the brain and spinal cord, potentially life-threatening.
+			- **bacteremia:** bloodstream infections that can lead to sepsis.
+	- 4. **viridans group streptococci:**
 	- **endocarditis:** infection of the inner lining of the heart, often in individuals with pre-existing heart conditions.
 	- **dental caries:** some species contribute to tooth decay.
 	  
