@@ -28,9 +28,9 @@
 - #### [[neuroprotective]]
 	- research suggests that α-pinene may have neuroprotective effects, which could be beneficial in preventing neurodegenerative diseases like [[alzheimer]]’s and [[parkinson]]’s disease. it may help protect brain cells from damage and improve [[cognitive function]].
 - #### [[antioxidant]]
-	- α-pinene has antioxidant properties, which can help neutralize free radicals in the body. this can reduce oxidative stress and potentially lower the risk of chronic diseases such as cancer and cardiovascular diseases.
+	- α-pinene has antioxidant properties, which can help neutralize free radicals in the body. this can reduce oxidative stress and potentially lower the risk of chronic diseases such as [[cancer]] and [[cardiovascular diseases]].
 - #### potential synergy with other compounds
-  α-pinene can interact synergistically with other terpenes and cannabinoids. in the context of cannabis, for instance, α-pinene may enhance the therapeutic effects of other compounds and contribute to the entourage effect.
+	- α-pinene can interact synergistically with other terpenes and [[cannabinoids]]. in the context of cannabis, for instance, α-pinene may enhance the therapeutic effects of other compounds and contribute to the entourage effect.
 - ### applications and delivery methods
   
   1. **essential oils**: α-pinene is a major component in many essential oils, which can be used in aromatherapy to promote relaxation and respiratory health.
