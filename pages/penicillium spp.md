@@ -6,10 +6,9 @@
 		- **[[penicillium marneffei]]:** causes systemic infections, particularly in immunocompromised individuals, such as those with hiv/aids. symptoms include fever, anemia, weight loss, skin lesions, and organ involvement.
 		- **[[cutaneous infections]]:** can cause skin and [[nail infections]], particularly in individuals with compromised skin barriers.
 	- 2. **respiratory infections:**
-		- **allergic reactions:** exposure to penicillium spores can cause allergic reactions, including allergic bronchopulmonary mycosis and asthma exacerbations.
-	- **pulmonary infections:** can cause lung infections, especially in immunocompromised individuals, leading to symptoms like cough, fever, and difficulty breathing.
-	  
-	  3. **otic infections (ear infections):**
+		- **[[allergic reactions]]:** exposure to penicillium spores can cause allergic reactions, including [[allergic bronchopulmonary mycosis]] and [[asthma exacerbations]].
+		- **[[pulmonary infections]]:** can cause lung infections, especially in immunocompromised individuals, leading to symptoms like cough, fever, and difficulty breathing.
+	- 3. **otic infections (ear infections):**
 	- **otomycosis:** infection of the outer ear canal, leading to itching, pain, and discharge, particularly in warm and humid climates.
 	  
 	  4. **keratitis:** infection of the cornea, often associated with contact lens use or eye trauma, leading to pain, redness, and vision problems.
