@@ -4,7 +4,7 @@
 	- 1. **[[tinea capitis]] (scalp ringworm):** [[infection of the scalp]] and hair shafts, leading to itchy, scaly patches, hair loss, and sometimes swollen, painful areas (kerions). it is most common in children.
 	- 2. **[[tinea corporis]] (body ringworm):** [[infection of the skin]] on the body, characterized by red, circular, itchy rashes with a clear center.
 	- 3. **[[tinea pedis]] (athlete's foot):** [[infection of the feet]], causing itching, scaling, redness, and sometimes blisters. it commonly affects the spaces between the toes.
-	- 4. **[[tinea cruris]] (jock itch):** infection of the groin area, leading to red, itchy, and often ring-shaped rashes. it is more common in males.
+	- 4. **[[tinea cruris]] (jock itch):** [[infection of the groin area]], leading to red, itchy, and often ring-shaped rashes. it is more common in males.
 	- 5. **[[tinea unguium]] (onychomycosis):** [[fungal infection of the nails]], causing thickening, discoloration, and separation of the nail from the nail bed.
 	- 6. **[[tinea barbae]]:** [[infection of the beard area]], causing red, inflamed patches and hair loss. it primarily affects men who work with animals.
 	- 7. **[[tinea manuum]]:** [[infection of the hands]], similar to athlete's foot, causing dryness, itching, and scaling on the palms and fingers.
