@@ -29,14 +29,14 @@ tags:: species
 	- **spacing in meter**: 4-6 meters apart.
 	- **germination days**: 30-60 days.
 	- **strata**: canopy layer in permaculture designs.
-- height: 30-35 meters
-- **days to maturity**: 15-20 years for full maturity.
-- **plant, harvest, pruning calendar in months**:
-	- plant: early spring or late autumn.
-	- harvest: resins can be harvested year-round; essential oils are typically extracted in spring and summer.
-	- pruning: late winter to early spring.
-- **good neighbors**: compatible with other conifers, deciduous trees, and shrubs that thrive in similar conditions.
-- **bad neighbors**: avoid planting near plants that require significantly different soil or water conditions.
+	- **height**: 30-35 meters
+	- **days to maturity**: 15-20 years for full maturity.
+	- **plant, harvest, pruning calendar in months**:
+		- plant: early spring or late autumn.
+		- harvest: resins can be harvested year-round; essential oils are typically extracted in spring and summer.
+		- pruning: late winter to early spring.
+	- **good neighbors**: compatible with other conifers, deciduous trees, and shrubs that thrive in similar conditions.
+	- **bad neighbors**: avoid planting near plants that require significantly different soil or water conditions.
 - ## chemical compounds
 	- | chemical compound  | plant part             | amount         | description                                                                                                                                                  |
 	  |--------------------|------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
