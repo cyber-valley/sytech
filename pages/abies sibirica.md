@@ -30,6 +30,7 @@ tags:: species
 - **spacing in meter**: 4-6 meters apart.
 - **germination days**: 30-60 days.
 - **strata**: canopy layer in permaculture designs.
+- height: 30-35 meters
 - **days to maturity**: 15-20 years for full maturity.
 - **plant, harvest, pruning calendar in months**:
 	- plant: early spring or late autumn.
