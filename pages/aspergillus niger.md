@@ -4,8 +4,8 @@
 	- 1. **aspergillosis:** a range of infections caused by aspergillus species, including aspergillus niger.
 		- [[allergic bronchopulmonary aspergillosis]] **(abpa):** an [[allergic reaction in the lungs]], more commonly seen in individuals with [[asthma]] or [[cystic fibrosis]].
 		- **[[aspergilloma]] (fungus ball):** a mass of fungal hyphae that can form in pre-existing lung cavities, leading to symptoms such as [[coughing]] and [[hemoptysis]] (coughing up blood).
-		- **invasive aspergillosis:** a severe infection where the fungus invades and damages tissues, primarily affecting immunocompromised individuals, leading to severe lung infections and potentially spreading to other organs such as the brain and heart.
-	- 2. **otomycosis (ear infection):** a fungal infection of the outer ear canal, often resulting in itching, pain, and discharge. it is more common in warm and humid climates.
+		- **[[invasive aspergillosis]]:** a severe infection where the fungus invades and damages tissues, primarily affecting immunocompromised individuals, leading to severe lung infections and potentially spreading to other organs such as the brain and heart.
+	- 2. **[[otomycosis]] (ear infection):** a fungal infection of the [[outer ear canal]], often resulting in itching, pain, and discharge. it is more common in warm and humid climates.
 	- 3. **keratitis:** infection of the cornea, often associated with contact lens use or eye trauma, leading to pain, redness, and vision problems.
 	- **habitats and transmission:**
 		- **environment:** found in soil, decaying vegetation, compost, and organic debris. it thrives in warm, humid conditions and can be present in indoor environments, including air, dust, and damp areas.
