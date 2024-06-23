@@ -97,35 +97,32 @@ tags:: species
 	- use as a chest rub to relieve congestion.
 - #### 3. siberian fir resin balm
 	- **ingredients**:
-- 1/4 cup siberian fir resin
-- 1/2 cup olive oil
-- 1/4 cup beeswax pellets
-- 10 drops of eucalyptus essential oil (optional)
-  
-  **instructions**:
-  1. melt the siberian fir resin in a double boiler until it becomes liquid.
-  2. add the olive oil to the melted resin and mix well.
-  3. add the beeswax pellets and continue to heat until the beeswax is melted.
-  4. remove from heat and stir in the eucalyptus essential oil.
-  5. pour the mixture into small jars or tins and let it cool completely.
-  6. store in a cool, dark place.
-  
-  **uses**:
-- apply to cuts, scrapes, and minor wounds to promote healing.
-- use as a natural antiseptic and anti-inflammatory balm.
+		- 1/4 cup siberian fir resin
+		- 1/2 cup olive oil
+		- 1/4 cup beeswax pellets
+		- 10 drops of eucalyptus essential oil (optional)
+	- **instructions**:
+		- 1. melt the siberian fir resin in a double boiler until it becomes liquid.
+		- 2. add the olive oil to the melted resin and mix well.
+		- 3. add the beeswax pellets and continue to heat until the beeswax is melted.
+		- 4. remove from heat and stir in the eucalyptus essential oil.
+		- 5. pour the mixture into small jars or tins and let it cool completely.
+		- 6. store in a cool, dark place.
+	- **uses**:
+		- apply to cuts, scrapes, and minor wounds to promote healing.
+		- use as a natural antiseptic and anti-inflammatory balm.
 - #### 4. siberian fir steam inhalation
-  
-  **ingredients**:
-- a handful of fresh or dried siberian fir needles
-- 1 liter of boiling water
-  
-  **instructions**:
-  1. place the fir needles in a large bowl.
-  2. pour the boiling water over the needles.
-  3. cover your head with a towel and lean over the bowl, creating a tent to trap the steam.
-  4. inhale the steam deeply for 10-15 minutes.
-  
-  **uses**:
+	- **ingredients**:
+		- a handful of fresh or dried siberian fir needles
+	- 1 liter of boiling water
+	  
+	  **instructions**:
+	  1. place the fir needles in a large bowl.
+	  2. pour the boiling water over the needles.
+	  3. cover your head with a towel and lean over the bowl, creating a tent to trap the steam.
+	  4. inhale the steam deeply for 10-15 minutes.
+	  
+	  **uses**:
 - helps clear nasal congestion and sinusitis.
 - provides relief from respiratory issues like bronchitis and colds.
 	- #### 5. siberian fir infused oil
