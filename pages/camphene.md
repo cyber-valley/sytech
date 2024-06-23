@@ -61,12 +61,11 @@
 	  1. **anti-inflammatory and antioxidant studies:**
 		- a study published in the *journal of natural products* reported significant anti-inflammatory and antioxidant activities of camphene in experimental models. [link to study](https://pubs.acs.org/doi/abs/10.1021/np1009629)
 		-
-		- 2. **antimicrobial properties:**
-		-
+	- 2. **antimicrobial properties:**
 		- research in *phytotherapy research* highlighted camphene’s effectiveness against various bacterial and fungal strains, suggesting its potential as a natural antimicrobial agent. [link to study](https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.2046)
 		  
 		  3. **lipid metabolism:**
-		- an article in the *journal of medicinal food* discussed camphene’s role in reducing cholesterol levels and improving lipid profiles in animal studies. [link to study](https://www.liebertpub.com/doi/abs/10.1089/jmf.2006.038)
+			- an article in the *journal of medicinal food* discussed camphene’s role in reducing cholesterol levels and improving lipid profiles in animal studies. [link to study](https://www.liebertpub.com/doi/abs/10.1089/jmf.2006.038)
 - ### conclusion
   
   camphene is a versatile compound with several potential medical applications. its anti-inflammatory, antioxidant, antimicrobial, and lipid-regulating properties make it a valuable compound for further research and development in pharmaceuticals and natural health products. however, more clinical studies are needed to fully understand its efficacy and safety in human health.
