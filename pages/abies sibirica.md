@@ -1,6 +1,8 @@
 alias:: siberian fir
 tags:: species
 
+- ![Screenshot 2024-06-23 at 05.34.43.png](../assets/Screenshot_2024-06-23_at_05.34.43_1719120961096_0.png)
+-
 - ![Abies_sibirica.pdf](../assets/Abies_sibirica_1719038767754_0.pdf)
 - ### review of abies sibirica (siberian fir)
   
