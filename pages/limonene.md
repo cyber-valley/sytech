@@ -22,11 +22,11 @@
 				- **[[aspergillus niger]]**: limonene shows activity against this fungus, which can cause respiratory infections, particularly in individuals with weakened immune systems.
 				- **[[penicillium spp]].**: limonene is effective against species of this genus, which are known for causing food spoilage and can produce mycotoxins harmful to health.
 				- **[[fusarium spp]].**: limonene demonstrates antifungal activity against fusarium species, which can cause infections in plants, animals, and humans.
-				- **[[trichophyton spp]].**: limonene has been effective against dermatophytes of this genus, which are responsible for skin infections such as athlete's foot and ringworm.
+				- **[[trichophyton spp]].**: limonene has been effective against dermatophytes of this genus, which are responsible for skin infections such as [[athlete's foot]] and [[ringworm]].
 	- ### [[anti-inflammatory]]
-		- limonene exhibits anti-inflammatory properties, which can be beneficial in reducing inflammation and associated pain. this makes it useful in conditions such as arthritis and other inflammatory diseases.
+		- limonene exhibits anti-inflammatory properties, which can be beneficial in reducing inflammation and associated pain. this makes it useful in conditions such as [[arthritis]] and other inflammatory diseases.
 	- ### [[anti-cancer]] potential:
-		- research has indicated that limonene may have anticancer properties. it has been found to induce apoptosis (programmed cell death) in cancer cells and inhibit tumor growth. this has been observed in various types of cancers, including breast can, colorectal, and prostate cancers.
+		- research has indicated that limonene may have anticancer properties. it has been found to induce apoptosis (programmed cell death) in cancer cells and inhibit tumor growth. this has been observed in various types of cancers, including [[breast cancer]], [[colorectal cancer]], and [[prostate cancer]]s.
 	- ### [[antioxidant]]
 		- limonene is a potent antioxidant, which helps in neutralizing free radicals in the body. this can prevent oxidative stress and reduce the risk of chronic diseases such as [[heart disease]] and [[neurodegenerative disorders]].
 	- ### [[digestive]] aid:
