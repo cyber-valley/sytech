@@ -2,7 +2,7 @@
 - bacillus cereus is a gram-positive, rod-shaped bacterium commonly found in soil and food. it is known for causing foodborne illnesses through the production of toxins and can also cause other types of infections.
 	- **diseases caused by bacillus cereus:**
 		- 1. **food poisoning:** two types of foodborne illness are caused by different toxins produced by bacillus cereus.
-			- **emetic type:** characterized by nausea and [[vomiting]], typically occurring within 1-6 hours after consuming contaminated food. it is often associated with rice and pasta dishes.
+			- **emetic type:** characterized by [[nausea]] and [[vomiting]], typically occurring within 1-6 hours after consuming contaminated food. it is often associated with rice and pasta dishes.
 			- **diarrheal type:** characterized by [[diarrhea]] and [[abdominal cramps]], typically occurring 6-15 hours after consuming contaminated food. it is associated with a variety of foods, including meats, vegetables, and sauces.
 		- 2. **non-gastrointestinal infections:** though less common, bacillus cereus can cause infections outside the gastrointestinal tract, particularly in immunocompromised individuals.
 			- ** [[wound infections]] :** can occur in traumatic or surgical wounds, leading to localized infection and inflammation.
