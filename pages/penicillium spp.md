@@ -10,11 +10,9 @@
 		- **[[pulmonary infections]]:** can cause lung infections, especially in immunocompromised individuals, leading to symptoms like [[cough]], [[fever]], and [[difficulty breathing]].
 	- 3. **[[otic infections]] (ear infections):**
 		- **[[otomycosis]]:** infection of the [[outer ear canal]], leading to itching, pain, and discharge, particularly in warm and humid climates.
-	- 4. **[[keratitis]]:** infection of the cornea, often associated with contact lens use or eye trauma, leading to pain, redness, and vision problems.
-	- **habitats and transmission:**
-		- **environment:** widely distributed in soil, decaying vegetation, air, and indoor environments such as damp or water-damaged buildings.
-- **transmission:** primarily occurs through inhalation of airborne spores. infections can also occur through direct contact with contaminated surfaces or through wounds.
-  
-  preventing penicillium infections involves maintaining good hygiene, controlling indoor moisture and mold growth, and protecting immunocompromised individuals from exposure to contaminated environments. in healthcare settings, air filtration and sterilization practices are important to prevent infections.
-  
-  treatment of penicillium infections depends on the type and severity of the infection. for systemic infections caused by penicillium marneffei, antifungal medications such as amphotericin b and itraconazole are commonly used. for cutaneous and localized infections, topical or systemic antifungals may be prescribed. managing allergic reactions involves avoiding exposure to spores and using medications to control symptoms. early diagnosis and appropriate treatment are crucial to effectively manage infections and prevent complications.
+	- 4. **[[keratitis]]:** infection of the [[cornea]], often associated with contact lens use or eye trauma, leading to pain, redness, and vision problems.
+- **habitats and transmission:**
+	- **environment:** widely distributed in soil, decaying vegetation, air, and indoor environments such as damp or water-damaged buildings.
+	- **transmission:** primarily occurs through inhalation of airborne spores. infections can also occur through direct contact with contaminated surfaces or through wounds.
+- preventing penicillium infections involves maintaining good hygiene, controlling indoor moisture and mold growth, and protecting immunocompromised individuals from exposure to contaminated environments. in healthcare settings, air filtration and sterilization practices are important to prevent infections.
+- treatment of penicillium infections depends on the type and severity of the infection. for systemic infections caused by penicillium marneffei, antifungal medications such as amphotericin b and itraconazole are commonly used. for cutaneous and localized infections, topical or systemic antifungals may be prescribed. managing allergic reactions involves avoiding exposure to spores and using medications to control symptoms. early diagnosis and appropriate treatment are crucial to effectively manage infections and prevent complications.
