@@ -8,9 +8,7 @@
 - **melting point:** 50–51 °c
 - **boiling point:** 159–160 °c
 - ### medical uses of camphene
-  
-  camphene has several potential medical applications due to its diverse biological activities. here are some of its key uses and benefits:
-- #### 1. anti-inflammatory and analgesic effects
+- #### 1. [[anti-inflammatory]] and [[analgesic effects]] 
   camphene has demonstrated anti-inflammatory and analgesic properties. it can help reduce inflammation and pain, making it useful in treating conditions like arthritis, muscle pain, and other inflammatory diseases.
 - **mechanism:** camphene modulates the inflammatory response and decreases the production of pro-inflammatory cytokines.
 - #### 2. antioxidant properties
