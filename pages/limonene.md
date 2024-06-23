@@ -15,14 +15,14 @@
 				- **[[salmonella typhimurium]]**: limonene exhibits antimicrobial activity against this gram-negative bacterium, responsible for salmonellosis, a type of food poisoning.
 				- **[[bacillus cereus]]**: this gram-positive bacterium, associated with food poisoning, is susceptible to limonene's antimicrobial effects.
 				- **[[listeria monocytogenes]]**: limonene has shown inhibitory effects against this gram-positive bacterium, which can cause listeriosis, particularly in pregnant women, newborns, and immunocompromised individuals.
-				- **pseudomonas aeruginosa**: limonene demonstrates activity against this gram-negative bacterium, known for causing infections in burn wounds and respiratory infections in cystic fibrosis patients.
-				- **methicillin-resistant staphylococcus aureus (mrsa)**: limonene has been found effective against mrsa, a strain of staphylococcus aureus that is resistant to many antibiotics, making it a serious public health concern.
+				- **[[pseudomonas aeruginosa]]**: limonene demonstrates activity against this gram-negative bacterium, known for causing infections in burn wounds and respiratory infections in cystic fibrosis patients.
+				- **[[methicillin-resistant staphylococcus aureus]] (mrsa)**: limonene has been found effective against mrsa, a strain of staphylococcus aureus that is resistant to many antibiotics, making it a serious public health concern.
 			- **fungi**:
-				- **candida albicans**: limonene has antifungal properties against this yeast, which can cause oral thrush, vaginal yeast infections, and systemic infections in immunocompromised individuals.
-				- **aspergillus niger**: limonene shows activity against this fungus, which can cause respiratory infections, particularly in individuals with weakened immune systems.
-				- **penicillium spp.**: limonene is effective against species of this genus, which are known for causing food spoilage and can produce mycotoxins harmful to health.
-				- **fusarium spp.**: limonene demonstrates antifungal activity against fusarium species, which can cause infections in plants, animals, and humans.
-				- **trichophyton spp.**: limonene has been effective against dermatophytes of this genus, which are responsible for skin infections such as athlete's foot and ringworm.
+				- **[[candida albicans]]**: limonene has antifungal properties against this yeast, which can cause oral thrush, vaginal yeast infections, and systemic infections in immunocompromised individuals.
+				- **[[aspergillus niger]]**: limonene shows activity against this fungus, which can cause respiratory infections, particularly in individuals with weakened immune systems.
+				- **[[penicillium spp]].**: limonene is effective against species of this genus, which are known for causing food spoilage and can produce mycotoxins harmful to health.
+				- **[[fusarium spp]].**: limonene demonstrates antifungal activity against fusarium species, which can cause infections in plants, animals, and humans.
+				- **[[trichophyton spp]].**: limonene has been effective against dermatophytes of this genus, which are responsible for skin infections such as athlete's foot and ringworm.
 					- ### research links:
 	- ### [[anti-inflammatory]]
 		- limonene exhibits anti-inflammatory properties, which can be beneficial in reducing inflammation and associated pain. this makes it useful in conditions such as arthritis and other inflammatory diseases.
