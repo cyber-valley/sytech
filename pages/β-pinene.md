@@ -37,7 +37,7 @@
 				- **MDPI** - comprehensive overview of the therapeutic potential of α- and β-pinene, including their antimicrobial properties. [source](https://www.mdpi.com/2218-273X/9/11/738)
 				- **springer** - essential oils containing pinene have shown effectiveness in combating antimicrobial resistance, highlighting their potential in treating infections caused by drug-resistant pathogens. [source](https://link.springer.com/article/10.1007/s11356-012-1348-3)
 	- 3. **[[bronchodilator]]:**
-		- b-pinene can act as a bronchodilator, helping to open up airways and improve breathing. this makes it beneficial for individuals with asthma or other respiratory conditions.
+		- b-pinene can act as a bronchodilator, helping to open up airways and [[improve breathing]] . this makes it beneficial for individuals with [[asthma]] or other respiratory conditions.
 	- 4. **[[pain relief]]:**
 		- due to its analgesic properties, b-pinene can be used to alleviate pain. it is often found in essential oils used in aromatherapy for its pain-relieving effects.
 	- 5. **[[antioxidant]] properties:**
