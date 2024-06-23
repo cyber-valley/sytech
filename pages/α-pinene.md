@@ -12,10 +12,10 @@
 	- studies have shown that α-pinene possesses antimicrobial properties, effective against a range of bacteria and fungi. this makes it a potential candidate for use in [[disinfectants]], [[antiseptics]], and in treating bacterial and fungal infections.
 		- #### bacteria
 			- **[[staphylococcus aureus]]**: α-pinene has been shown to inhibit the growth of this common cause of skin infections, respiratory infections, and food poisoning.
-			- **escherichia coli**: effective against e. coli, which can cause urinary tract infections, foodborne illnesses, and other infections.
-		- **streptococcus pneumoniae**: known for causing pneumonia and other respiratory tract infections.
-		- **pseudomonas aeruginosa**: α-pinene is effective against this opportunistic pathogen that can cause infections in individuals with weakened immune systems.
-		- **helicobacter pylori**: effective in inhibiting this bacterium, which is associated with peptic ulcers and gastric cancer.
+			- **[[escherichia coli]]**: effective against e. coli, which can cause urinary tract infections, foodborne illnesses, and other infections.
+			- **[[streptococcus pneumoniae]]**: known for causing pneumonia and other respiratory tract infections.
+			- **[[pseudomonas aeruginosa]]**: α-pinene is effective against this opportunistic pathogen that can cause infections in individuals with weakened immune systems.
+			- **[[helicobacter pylori]]**: effective in inhibiting this bacterium, which is associated with peptic ulcers and gastric cancer.
 		- #### fungi
 		- **candida albicans**: α-pinene has antifungal properties against this yeast, which can cause oral and genital infections, as well as systemic infections in immunocompromised individuals.
 		- **aspergillus niger**: effective against this fungus, which can cause respiratory infections, particularly in individuals with weakened immune systems.
