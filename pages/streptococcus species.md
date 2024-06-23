@@ -6,7 +6,7 @@
 			- **[[scarlet fever]]:** marked by a [[red rash,]] [[fever]], and [[sore throat]].
 			- **[[impetigo]]:** a contagious [[skin infection]] causing [[sores]] and [[blisters]].
 			- **[[necrotizing fasciitis]]:** a severe infection causing tissue death, often referred to as "[[flesh-eating disease]]."
-			- **rheumatic fever:** an inflammatory disease affecting the heart, joints, and nervous system, occurring after strep throat or scarlet fever.
+			- **[[rheumatic fever]]:** an inflammatory disease affecting the heart, joints, and nervous system, occurring after strep throat or scarlet fever.
 			- **glomerulonephritis:** inflammation of the kidney's filtering units.
 		- 2. **streptococcus agalactiae (group b streptococcus):**
 			- **neonatal infections:** including sepsis, pneumonia, and meningitis in newborns.
