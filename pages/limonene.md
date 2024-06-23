@@ -23,8 +23,6 @@
 				- **[[penicillium spp]].**: limonene is effective against species of this genus, which are known for causing food spoilage and can produce mycotoxins harmful to health.
 				- **[[fusarium spp]].**: limonene demonstrates antifungal activity against fusarium species, which can cause infections in plants, animals, and humans.
 				- **[[trichophyton spp]].**: limonene has been effective against dermatophytes of this genus, which are responsible for skin infections such as athlete's foot and ringworm.
-					- ### research links:
-						-
 	- ### [[anti-inflammatory]]
 		- limonene exhibits anti-inflammatory properties, which can be beneficial in reducing inflammation and associated pain. this makes it useful in conditions such as arthritis and other inflammatory diseases.
 	- ### [[anti-cancer]] potential:
@@ -34,7 +32,7 @@
 	- ### [[digestive]] aid:
 		- limonene has been traditionally used to relieve symptoms of gastrointestinal distress, such as acid reflux and indigestion. it helps in promoting healthy digestion and can alleviate symptoms of bloating and stomach discomfort.
 	- ### potential in [[skin care]]
-		- due to its anti-inflammatory and antimicrobial properties, limonene is used in various skin care products. it can help in treating acne, eczema, and other skin conditions by reducing inflammation and preventing bacterial infections.
+		- due to its anti-inflammatory and antimicrobial properties, limonene is used in various skin care products. it can help in treating [[acne]], [[eczema]], and other skin conditions by reducing inflammation and preventing bacterial infections.
 - ## research links:
   
   1. [antimicrobial activity of limonene](https://scholar.google.com/scholar?q=antimicrobial+activity+of+limonene)
