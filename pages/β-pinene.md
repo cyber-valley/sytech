@@ -11,31 +11,31 @@
 	- 2. **[[antimicrobial]] activity:**
 		- this compound exhibits antimicrobial properties against a wide range of bacteria and fungi. it has been studied for its potential to treat infections and as a natural preservative in food and cosmetics.
 			- ### bacteria
-			- **staphylococcus aureus** (including methicillin-resistant strains, MRSA):
-				- **harm:** causes skin infections, abscesses, respiratory infections, and food poisoning. MRSA strains are particularly concerning due to their resistance to multiple antibiotics, leading to difficult-to-treat infections​ ([MDPI](https://www.mdpi.com/1420-3049/17/6/6305))​​ ([SpringerLink](https://link.springer.com/chapter/10.1007/978-981-16-3120-7_15))​.
-			- **escherichia coli**:
-				- **harm:** can cause urinary tract infections, gastroenteritis, and in severe cases, hemolytic uremic syndrome (HUS), which can lead to kidney failure​ ([MDPI](https://www.mdpi.com/1420-3049/17/6/6305))​​ ([SpringerLink](https://link.springer.com/chapter/10.1007/978-981-16-3120-7_15))​.
-			- **klebsiella pneumoniae**:
-				- **harm:** responsible for pneumonia, bloodstream infections, wound or surgical site infections, and meningitis. it is particularly dangerous in healthcare settings due to its resistance to many antibiotics​ ([SpringerLink](https://link.springer.com/chapter/10.1007/978-981-16-3120-7_15))​.
-			- **enterococcus hirae**:
-				- **harm:** can cause urinary tract infections, bacteremia, endocarditis, and wound infections, especially in immunocompromised individuals. it is known for its resistance to several antibiotics​ ([Gavin Publishers](https://www.gavinpublishers.com/article/view/a-science-review-of-selected-essential-oils-and-their-botanical-ingredients.-focus-on-essential-oils-used-for-respiratory-and-calming))​.
-			- **salmonella enterica**:
-				- **harm:** leads to salmonellosis, characterized by diarrhea, fever, and abdominal cramps. severe cases can result in bloodstream infections and require hospitalization​ ([SpringerLink](https://link.springer.com/chapter/10.1007/978-981-16-3120-7_15))​​ ([Gavin Publishers](https://www.gavinpublishers.com/article/view/a-science-review-of-selected-essential-oils-and-their-botanical-ingredients.-focus-on-essential-oils-used-for-respiratory-and-calming))​.
-			- **streptococcus species**:
-				- **harm:** includes streptococcus pyogenes (causes strep throat, impetigo, and necrotizing fasciitis) and streptococcus pneumoniae (causes pneumonia, meningitis, and sepsis)​ ([SpringerLink](https://link.springer.com/chapter/10.1007/978-981-16-3120-7_15))​​ ([MDPI](https://www.mdpi.com/2673-9992/12/1/11))​.
+				- **[[staphylococcus aureus]]** (including methicillin-resistant strains, MRSA):
+					- **harm:** causes skin infections, abscesses, respiratory infections, and food poisoning. MRSA strains are particularly concerning due to their resistance to multiple antibiotics, leading to difficult-to-treat infections​ ([MDPI](https://www.mdpi.com/1420-3049/17/6/6305))​​ ([SpringerLink](https://link.springer.com/chapter/10.1007/978-981-16-3120-7_15))​.
+				- **[[escherichia coli]]**:
+					- **harm:** can cause urinary tract infections, gastroenteritis, and in severe cases, hemolytic uremic syndrome (HUS), which can lead to kidney failure​ ([MDPI](https://www.mdpi.com/1420-3049/17/6/6305))​​ ([SpringerLink](https://link.springer.com/chapter/10.1007/978-981-16-3120-7_15))​.
+				- **klebsiella pneumoniae**:
+					- **harm:** responsible for pneumonia, bloodstream infections, wound or surgical site infections, and meningitis. it is particularly dangerous in healthcare settings due to its resistance to many antibiotics​ ([SpringerLink](https://link.springer.com/chapter/10.1007/978-981-16-3120-7_15))​.
+				- **enterococcus hirae**:
+					- **harm:** can cause urinary tract infections, bacteremia, endocarditis, and wound infections, especially in immunocompromised individuals. it is known for its resistance to several antibiotics​ ([Gavin Publishers](https://www.gavinpublishers.com/article/view/a-science-review-of-selected-essential-oils-and-their-botanical-ingredients.-focus-on-essential-oils-used-for-respiratory-and-calming))​.
+				- **salmonella enterica**:
+					- **harm:** leads to salmonellosis, characterized by diarrhea, fever, and abdominal cramps. severe cases can result in bloodstream infections and require hospitalization​ ([SpringerLink](https://link.springer.com/chapter/10.1007/978-981-16-3120-7_15))​​ ([Gavin Publishers](https://www.gavinpublishers.com/article/view/a-science-review-of-selected-essential-oils-and-their-botanical-ingredients.-focus-on-essential-oils-used-for-respiratory-and-calming))​.
+				- **streptococcus species**:
+					- **harm:** includes streptococcus pyogenes (causes strep throat, impetigo, and necrotizing fasciitis) and streptococcus pneumoniae (causes pneumonia, meningitis, and sepsis)​ ([SpringerLink](https://link.springer.com/chapter/10.1007/978-981-16-3120-7_15))​​ ([MDPI](https://www.mdpi.com/2673-9992/12/1/11))​.
 			- ### fungi
-			- **candida albicans**:
-				- **harm:** causes candidiasis, which can affect the mouth (oral thrush), genital area (yeast infection), and bloodstream (invasive candidiasis). it is particularly dangerous for immunocompromised individuals​ ([MDPI](https://www.mdpi.com/1420-3049/17/6/6305))​​ ([MDPI](https://www.mdpi.com/2218-273X/9/11/738))​.
-			- **aspergillus flavus**:
-				- **harm:** responsible for aspergillosis, which can affect the lungs and other organs, leading to allergic reactions, lung infections, and in severe cases, systemic infections. it also produces aflatoxins, which are carcinogenic​ ([Gavin Publishers](https://www.gavinpublishers.com/article/view/a-science-review-of-selected-essential-oils-and-their-botanical-ingredients.-focus-on-essential-oils-used-for-respiratory-and-calming))​.
-			- **aspergillus nidulans**:
-				- **harm:** similar to aspergillus flavus, it can cause aspergillosis, affecting the lungs and other organs, and is particularly harmful to immunocompromised patients​ ([Gavin Publishers](https://www.gavinpublishers.com/article/view/a-science-review-of-selected-essential-oils-and-their-botanical-ingredients.-focus-on-essential-oils-used-for-respiratory-and-calming))​.
-			- **cryptococcus neoformans**:
-				- **harm:** causes cryptococcosis, which primarily affects the lungs and central nervous system, leading to pneumonia and meningitis. it is a significant threat to individuals with weakened immune systems, such as those with HIV/AIDS​ ([MDPI](https://www.mdpi.com/1420-3049/17/6/6305))​.
+				- **candida albicans**:
+					- **harm:** causes candidiasis, which can affect the mouth (oral thrush), genital area (yeast infection), and bloodstream (invasive candidiasis). it is particularly dangerous for immunocompromised individuals​ ([MDPI](https://www.mdpi.com/1420-3049/17/6/6305))​​ ([MDPI](https://www.mdpi.com/2218-273X/9/11/738))​.
+				- **aspergillus flavus**:
+					- **harm:** responsible for aspergillosis, which can affect the lungs and other organs, leading to allergic reactions, lung infections, and in severe cases, systemic infections. it also produces aflatoxins, which are carcinogenic​ ([Gavin Publishers](https://www.gavinpublishers.com/article/view/a-science-review-of-selected-essential-oils-and-their-botanical-ingredients.-focus-on-essential-oils-used-for-respiratory-and-calming))​.
+				- **aspergillus nidulans**:
+					- **harm:** similar to aspergillus flavus, it can cause aspergillosis, affecting the lungs and other organs, and is particularly harmful to immunocompromised patients​ ([Gavin Publishers](https://www.gavinpublishers.com/article/view/a-science-review-of-selected-essential-oils-and-their-botanical-ingredients.-focus-on-essential-oils-used-for-respiratory-and-calming))​.
+				- **cryptococcus neoformans**:
+					- **harm:** causes cryptococcosis, which primarily affects the lungs and central nervous system, leading to pneumonia and meningitis. it is a significant threat to individuals with weakened immune systems, such as those with HIV/AIDS​ ([MDPI](https://www.mdpi.com/1420-3049/17/6/6305))​.
 			- ### research references
-			- **MDPI** - the antimicrobial activities of the isomers and enantiomers of pinene have been evaluated against various bacterial and fungal cells, confirming that the positive enantiomers exhibit significant antimicrobial activity. [source](https://www.mdpi.com/1420-3049/17/6/6305)
-			- **MDPI** - comprehensive overview of the therapeutic potential of α- and β-pinene, including their antimicrobial properties. [source](https://www.mdpi.com/2218-273X/9/11/738)
-			- **springer** - essential oils containing pinene have shown effectiveness in combating antimicrobial resistance, highlighting their potential in treating infections caused by drug-resistant pathogens. [source](https://link.springer.com/article/10.1007/s11356-012-1348-3)
+				- **MDPI** - the antimicrobial activities of the isomers and enantiomers of pinene have been evaluated against various bacterial and fungal cells, confirming that the positive enantiomers exhibit significant antimicrobial activity. [source](https://www.mdpi.com/1420-3049/17/6/6305)
+				- **MDPI** - comprehensive overview of the therapeutic potential of α- and β-pinene, including their antimicrobial properties. [source](https://www.mdpi.com/2218-273X/9/11/738)
+				- **springer** - essential oils containing pinene have shown effectiveness in combating antimicrobial resistance, highlighting their potential in treating infections caused by drug-resistant pathogens. [source](https://link.springer.com/article/10.1007/s11356-012-1348-3)
 	- 3. **[[bronchodilator]]:**
 		- b-pinene can act as a bronchodilator, helping to open up airways and improve breathing. this makes it beneficial for individuals with asthma or other respiratory conditions.
 	- 4. **[[pain relief]]:**
