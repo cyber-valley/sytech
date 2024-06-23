@@ -2,7 +2,45 @@ alias:: siberian fir
 tags:: species
 
 - ![Abies_sibirica.pdf](../assets/Abies_sibirica_1719038767754_0.pdf)
--
+- ### review of abies sibirica (siberian fir)
+  
+  abies sibirica, commonly known as the siberian fir, is a coniferous tree native to siberia and parts of northeastern europe. this evergreen tree is known for its aromatic needles and essential oils. it grows in cold, temperate climates and has several uses in various industries.
+- #### parts of the plant and their uses
+- **root**: not commonly used commercially or medicinally.
+- **stem**: primarily used for timber and construction.
+- **fruit (cones)**: used for extracting essential oils and resins.
+- **leave (needles)**: used for extracting essential oils, which have antimicrobial and anti-inflammatory properties.
+- **bark**: used for extracting tannins and other compounds with medicinal properties.
+- **flower**: not typically used as siberian fir produces cones, not flowers.
+- #### uses
+- **plants/fruits**: cones are used for extracting essential oils and resins.
+- **plants/greens**: needles are used for essential oil extraction and sometimes for medicinal purposes.
+- **plants/nuts**: not applicable as abies sibirica does not produce nuts.
+- **plants/grains**: not applicable as abies sibirica does not produce grains.
+- **plants/flowers**: not applicable as abies sibirica produces cones.
+- **plants/resins**: resins from the tree are used in traditional medicine and for making varnishes and adhesives.
+- **plants/timber**: the wood is used in construction, furniture making, and paper production.
+- **plants/medicine**: essential oils from needles and resins have antimicrobial, anti-inflammatory, and analgesic properties.
+- **plants/fuel**: timber can be used as firewood.
+- **plants/textile**: not applicable as siberian fir is not used in textile production.
+- **plants/fertilizer**: not typically used as fertilizer.
+- #### data
+- **sun requirements**: full sun to partial shade.
+- **water requirements**: moderate; prefers well-drained soils and regular watering.
+- **soil ph**: slightly acidic to neutral (ph 5.5-7).
+- **plant/roles in permaculture guilds**: can serve as a windbreak, provides habitat for wildlife, and its needles can be used as mulch.
+- **spacing in meter**: 4-6 meters apart.
+- **germination days**: 30-60 days.
+- **strata**: canopy layer in permaculture designs.
+- **days to maturity**: 15-20 years for full maturity.
+- **plant, harvest, pruning calendar in months**:
+	- plant: early spring or late autumn.
+	- harvest: resins can be harvested year-round; essential oils are typically extracted in spring and summer.
+	- pruning: late winter to early spring.
+- **good neighbors**: compatible with other conifers, deciduous trees, and shrubs that thrive in similar conditions.
+- **bad neighbors**: avoid planting near plants that require significantly different soil or water conditions.
+  
+  this review provides an overview of the various uses and growing requirements for abies sibirica, highlighting its importance in timber, essential oil production, and traditional medicine.
 - ## chemical compounds
 	- | chemical compound  | plant part             | amount         | description                                                                                                                                                  |
 	  |--------------------|------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
