@@ -10,11 +10,11 @@
 	- ### [[antimicrobial]]
 		- limonene has been shown to possess significant antimicrobial properties. it can inhibit the growth of various bacteria and fungi, making it a potential candidate for use in antimicrobial agents and disinfectants.
 			- **bacteria**:
-				- **staphylococcus aureus**: limonene has shown significant activity against this gram-positive bacterium, which is known for causing skin infections, respiratory diseases, and food poisoning.
-				- **escherichia coli**: limonene has been effective against this gram-negative bacterium, which is a common cause of urinary tract infections and foodborne illnesses.
-				- **salmonella typhimurium**: limonene exhibits antimicrobial activity against this gram-negative bacterium, responsible for salmonellosis, a type of food poisoning.
-				- **bacillus cereus**: this gram-positive bacterium, associated with food poisoning, is susceptible to limonene's antimicrobial effects.
-				- **listeria monocytogenes**: limonene has shown inhibitory effects against this gram-positive bacterium, which can cause listeriosis, particularly in pregnant women, newborns, and immunocompromised individuals.
+				- **[[staphylococcus aureus]]**: limonene has shown significant activity against this gram-positive bacterium, which is known for causing skin infections, respiratory diseases, and food poisoning.
+				- **[[escherichia coli]]**: limonene has been effective against this gram-negative bacterium, which is a common cause of urinary tract infections and foodborne illnesses.
+				- **[[salmonella typhimurium]]**: limonene exhibits antimicrobial activity against this gram-negative bacterium, responsible for salmonellosis, a type of food poisoning.
+				- **[[bacillus cereus]]**: this gram-positive bacterium, associated with food poisoning, is susceptible to limonene's antimicrobial effects.
+				- **[[listeria monocytogenes]]**: limonene has shown inhibitory effects against this gram-positive bacterium, which can cause listeriosis, particularly in pregnant women, newborns, and immunocompromised individuals.
 				- **pseudomonas aeruginosa**: limonene demonstrates activity against this gram-negative bacterium, known for causing infections in burn wounds and respiratory infections in cystic fibrosis patients.
 				- **methicillin-resistant staphylococcus aureus (mrsa)**: limonene has been found effective against mrsa, a strain of staphylococcus aureus that is resistant to many antibiotics, making it a serious public health concern.
 			- **fungi**:
@@ -24,7 +24,6 @@
 				- **fusarium spp.**: limonene demonstrates antifungal activity against fusarium species, which can cause infections in plants, animals, and humans.
 				- **trichophyton spp.**: limonene has been effective against dermatophytes of this genus, which are responsible for skin infections such as athlete's foot and ringworm.
 					- ### research links:
-					-
 	- ### [[anti-inflammatory]]
 		- limonene exhibits anti-inflammatory properties, which can be beneficial in reducing inflammation and associated pain. this makes it useful in conditions such as arthritis and other inflammatory diseases.
 	- ### [[anti-cancer]] potential:
