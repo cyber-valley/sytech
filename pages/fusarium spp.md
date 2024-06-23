@@ -6,7 +6,7 @@
 		- **[[onychomycosis]]:** [[fungal infections of the nails]], causing discoloration, thickening, and separation from the nail bed.
 	- 2. **[[keratitis]]:** infection of the cornea, often associated with contact lens use or eye trauma. symptoms include pain, redness, blurred vision, and discharge. fusarium keratitis can lead to severe damage to the cornea and potential vision loss if not treated promptly.
 	- 3. **[[sinusitis]]:** fungal infection of the sinuses, which can occur in immunocompromised individuals or those with [[chronic sinus conditions]] symptoms include [[nasal congestion]], pain, and discharge.
-	- 4. **disseminated fusariosis:** a severe and often fatal infection that occurs when fusarium spreads through the bloodstream to multiple organs. this primarily affects immunocompromised patients, such as those with leukemia or after a bone marrow transplant. symptoms can include fever, lung infections, and organ failure.
+	- 4. **[[disseminated fusariosis]]:** a severe and often fatal infection that occurs when fusarium spreads through the bloodstream to multiple organs. this primarily affects immunocompromised patients, such as those with leukemia or after a bone marrow transplant. symptoms can include fever, lung infections, and organ failure.
 - **habitats and transmission:**
 	- **environment:** widely distributed in soil, decaying vegetation, and plant debris. fusarium can also contaminate water and food products.
 	- **transmission:** primarily occurs through direct contact with contaminated soil or plant material. infections can also occur through traumatic implantation (such as injuries or wounds) and inhalation of airborne spores. in healthcare settings, transmission can occur via contaminated medical equipment or solutions.
