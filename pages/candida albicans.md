@@ -1,11 +1,11 @@
 - ![Candida_albicans.pdf](../assets/Candida_albicans_1719126485294_0.pdf)
 - candida albicans is a type of yeast (fungus) that is normally found in small amounts in the human body, particularly in the mouth, throat, gut, and vagina. while it is usually harmless, it can cause infections if it grows out of control or if the immune system is compromised.
 - **diseases caused by candida albicans:**
-	- 1. **oral candidiasis (thrush):** a yeast infection in the mouth, characterized by white patches on the tongue and inside the cheeks, soreness, and difficulty swallowing.
-	- 2. **vaginal candidiasis (vaginal yeast infection):** causes itching, burning, and discharge in the vaginal area.
-	- 3. **cutaneous candidiasis:** skin infections, especially in warm, moist areas such as armpits, groin, and under breasts, leading to red, itchy rashes.
-	- 4. **invasive candidiasis:** a serious infection that occurs when candida enters the bloodstream, potentially affecting organs like the heart (endocarditis), brain (meningitis), eyes (endophthalmitis), and bones (osteomyelitis).
-	- 5. **esophageal candidiasis:** infection of the esophagus, often seen in individuals with weakened immune systems, causing pain and difficulty swallowing.
+	- 1. **[[oral candidiasis]] (thrush):** a yeast infection in the mouth, characterized by white patches on the tongue and inside the cheeks, soreness, and difficulty swallowing.
+	- 2. **[[vaginal candidiasis]] (vaginal yeast infection):** causes itching, burning, and discharge in the vaginal area.
+	- 3. **[[cutaneous candidiasis]]:** skin infections, especially in warm, moist areas such as armpits, groin, and under breasts, leading to red, itchy rashes.
+	- 4. **[[invasive candidiasis]]:** a serious infection that occurs when candida enters the bloodstream, potentially affecting organs like the heart (endocarditis), brain (meningitis), eyes (endophthalmitis), and bones (osteomyelitis).
+	- 5. **[[esophageal candidiasis]]:** infection of the esophagus, often seen in individuals with weakened immune systems, causing pain and difficulty swallowing.
 - **habitats and transmission:**
 	- **human body:** normally found in the mouth, throat, gut, and vagina.
 	- **environment:** can be present on surfaces and objects, particularly in healthcare settings.
