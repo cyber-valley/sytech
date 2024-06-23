@@ -2,6 +2,7 @@ alias:: siberian fir
 tags:: species
 
 - ![Abies_sibirica.pdf](../assets/Abies_sibirica_1719038767754_0.pdf)
+-
 - ## chemical compounds
 	- | chemical compound  | plant part             | amount         | description                                                                                                                                                  |
 	  |--------------------|------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
