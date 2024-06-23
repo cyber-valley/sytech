@@ -8,11 +8,11 @@
 - **melting point:** 50–51 °c
 - **boiling point:** 159–160 °c
 - ### medical uses of camphene
-- #### 1. [[anti-inflammatory]] and [[analgesic effects]] 
-  camphene has demonstrated anti-inflammatory and analgesic properties. it can help reduce inflammation and pain, making it useful in treating conditions like [[arthritis]], [[muscle pain]], and other inflammatory diseases.
+- #### 1. [[anti-inflammatory]] and [[analgesic effects]]
+- camphene has demonstrated anti-inflammatory and analgesic properties. it can help reduce inflammation and pain, making it useful in treating conditions like [[arthritis]], [[muscle pain]], and other inflammatory diseases.
 - **mechanism:** camphene modulates the inflammatory response and decreases the production of pro-inflammatory cytokines.
 - #### 2. [[antioxidant]] properties
-  camphene exhibits antioxidant activities, which help protect cells from oxidative damage caused by free radicals. this property is beneficial for preventing [[chronic diseases]] and promoting overall health.
+	- camphene exhibits antioxidant activities, which help protect cells from oxidative damage caused by free radicals. this property is beneficial for preventing [[chronic diseases]] and promoting overall health.
 - **mechanism:** it scavenges free radicals and enhances the activity of antioxidant enzymes in the body.
 - #### 3. [[antimicrobial]] activity
   camphene has been found to possess antimicrobial properties against a range of bacteria and fungi. this makes it potentially useful in treating infections and as a preservative in pharmaceutical formulations.
@@ -39,10 +39,10 @@
 			- associated with lung infections and can cause aspergillosis, particularly in immunocompromised individuals.
 		- **[[penicillium notatum]]**
 			- known for its role in the production of the antibiotic penicillin, but can also cause food spoilage.
-	- **trichophyton mentagrophytes**
-		- responsible for athlete's foot, ringworm, and other dermatophytic infections.
-	- **cryptococcus neoformans**
-		- causes cryptococcosis, which can affect the lungs and central nervous system, particularly in immunocompromised individuals.
+		- **[[trichophyton mentagrophytes]]**
+			- responsible for athlete's foot, ringworm, and other dermatophytic infections.
+		- **[[cryptococcus neoformans]]**
+			- causes cryptococcosis, which can affect the lungs and central nervous system, particularly in immunocompromised individuals.
 	- ### mechanism of action
 	  
 	  camphene exerts its antimicrobial effects by disrupting the cell membranes of these microbes, leading to their death. it may also interfere with the replication and metabolism of the pathogens.
@@ -52,7 +52,7 @@
 	- **antifungal activity:**
 		- research in *mycoses* highlighted camphene’s antifungal properties against various fungal pathogens. [link to study](https://onlinelibrary.wiley.com/doi/abs/10.1111/myc.12097)
 -
-- #### 4. lipid metabolism regulation
+- #### 4. [[lipid metabolism regulation]]
   studies suggest that camphene can help regulate lipid metabolism. it has been shown to reduce blood cholesterol levels, which can be beneficial in managing cardiovascular diseases.
 - **mechanism:** it affects lipid metabolism pathways and reduces the synthesis of cholesterol in the liver.
 - #### 5. respiratory benefits
