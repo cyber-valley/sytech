@@ -3,12 +3,12 @@
   
   **diseases caused by staphylococcus aureus:**
 	- 1. **[[skin infections]]:** [[impetigo]], [[cellulitis]], and [[abscesses]].
-	- 2. **respiratory infections:** pneumonia.
-	- 3. **food poisoning:** caused by ingestion of enterotoxins produced by the bacteria.
-	- 4. **bone and joint infections:** osteomyelitis and septic arthritis.
-	- 5. **endocarditis:** infection of the inner lining of the heart.
-	- 6. **bacteremia:** bloodstream infections that can lead to sepsis.
-	- 7. **toxic shock syndrome:** a rare but potentially fatal condition caused by bacterial toxins.
+	- 2. **[[respiratory infections]]:** [[pneumonia]].
+	- 3. **[[food poisoning]]:** caused by ingestion of enterotoxins produced by the bacteria.
+	- 4. **[[bone and joint infections]]:** [[osteomyelitis]] and [[septic arthritis]].
+	- 5. **[[endocarditis]]:** infection of the inner lining of the heart.
+	- 6. **[[bacteremia]]:** bloodstream infections that can lead to sepsis.
+	- 7. **[[toxic shock syndrome]]:** a rare but potentially fatal condition caused by bacterial toxins.
 - **habitats and transmission:**
 	- **human body:** commonly found on the skin, in the nasal passages, and sometimes in the throat and digestive tract.
 	- **environment:** can be found on various surfaces and objects, especially in hospitals (known as a major cause of hospital-acquired infections).
