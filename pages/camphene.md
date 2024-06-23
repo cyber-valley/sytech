@@ -9,9 +9,9 @@
 - **boiling point:** 159–160 °c
 - ### medical uses of camphene
 - #### 1. [[anti-inflammatory]] and [[analgesic effects]] 
-  camphene has demonstrated anti-inflammatory and analgesic properties. it can help reduce inflammation and pain, making it useful in treating conditions like arthritis, muscle pain, and other inflammatory diseases.
+  camphene has demonstrated anti-inflammatory and analgesic properties. it can help reduce inflammation and pain, making it useful in treating conditions like [[arthritis]], [[muscle pain]], and other inflammatory diseases.
 - **mechanism:** camphene modulates the inflammatory response and decreases the production of pro-inflammatory cytokines.
-- #### 2. antioxidant properties
+- #### 2. [[antioxidant]] properties
   camphene exhibits antioxidant activities, which help protect cells from oxidative damage caused by free radicals. this property is beneficial for preventing chronic diseases and promoting overall health.
 - **mechanism:** it scavenges free radicals and enhances the activity of antioxidant enzymes in the body.
 - #### 3. antimicrobial activity
