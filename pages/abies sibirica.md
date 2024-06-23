@@ -38,8 +38,6 @@ tags:: species
 	- pruning: late winter to early spring.
 - **good neighbors**: compatible with other conifers, deciduous trees, and shrubs that thrive in similar conditions.
 - **bad neighbors**: avoid planting near plants that require significantly different soil or water conditions.
-  
-  this review provides an overview of the various uses and growing requirements for abies sibirica, highlighting its importance in timber, essential oil production, and traditional medicine.
 - ## chemical compounds
 	- | chemical compound  | plant part             | amount         | description                                                                                                                                                  |
 	  |--------------------|------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
