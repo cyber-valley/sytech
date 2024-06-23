@@ -1,0 +1,1 @@
+- ![Aspergillus_nidulans.pdf](../assets/Aspergillus_nidulans_1719127084883_0.pdf)
