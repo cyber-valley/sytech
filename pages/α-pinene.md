@@ -25,10 +25,10 @@
 	- α-pinene is known for its bronchodilator effects, which means it can help expand the airways in the [[respiratory]] system. this property is particularly beneficial for patients with [[asthma]] and other respiratory conditions.
 - #### [[pain relief]]
 	- due to its anti-inflammatory properties, α-pinene can also contribute to pain relief. it is often considered in the formulation of natural pain relief products.
-- #### neuroprotective effects
-  research suggests that α-pinene may have neuroprotective effects, which could be beneficial in preventing neurodegenerative diseases like alzheimer’s and parkinson’s disease. it may help protect brain cells from damage and improve cognitive function.
-- #### antioxidant properties
-  α-pinene has antioxidant properties, which can help neutralize free radicals in the body. this can reduce oxidative stress and potentially lower the risk of chronic diseases such as cancer and cardiovascular diseases.
+- #### [[neuroprotective]]
+	- research suggests that α-pinene may have neuroprotective effects, which could be beneficial in preventing neurodegenerative diseases like [[alzheimer]]’s and [[parkinson]]’s disease. it may help protect brain cells from damage and improve [[cognitive function]].
+- #### [[antioxidant]]
+	- α-pinene has antioxidant properties, which can help neutralize free radicals in the body. this can reduce oxidative stress and potentially lower the risk of chronic diseases such as cancer and cardiovascular diseases.
 - #### potential synergy with other compounds
   α-pinene can interact synergistically with other terpenes and cannabinoids. in the context of cannabis, for instance, α-pinene may enhance the therapeutic effects of other compounds and contribute to the entourage effect.
 - ### applications and delivery methods
