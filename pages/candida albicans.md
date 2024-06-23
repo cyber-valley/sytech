@@ -4,7 +4,7 @@
 	- 1. **[[oral candidiasis]] (thrush):** a yeast infection in the mouth, characterized by white patches on the tongue and inside the cheeks, soreness, and difficulty swallowing.
 	- 2. **[[vaginal candidiasis]] (vaginal yeast infection):** causes itching, burning, and discharge in the vaginal area.
 	- 3. **[[cutaneous candidiasis]]:** skin infections, especially in warm, moist areas such as armpits, groin, and under breasts, leading to red, itchy rashes.
-	- 4. **[[invasive candidiasis]]:** a serious infection that occurs when candida enters the bloodstream, potentially affecting organs like the heart (endocarditis), brain (meningitis), eyes (endophthalmitis), and bones (osteomyelitis).
+	- 4. **[[invasive candidiasis]]:** a serious infection that occurs when candida enters the bloodstream, potentially affecting organs like the heart ([[endocarditis]]), brain ([[meningitis]]), eyes ([[endophthalmitis]]), and bones ([[osteomyelitis]]).
 	- 5. **[[esophageal candidiasis]]:** infection of the esophagus, often seen in individuals with weakened immune systems, causing pain and difficulty swallowing.
 - **habitats and transmission:**
 	- **human body:** normally found in the mouth, throat, gut, and vagina.
