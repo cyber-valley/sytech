@@ -68,23 +68,20 @@ tags:: species
 - #### 1. siberian fir needle tea
 	- **ingredients**:
 		- a handful of fresh or dried siberian fir needles
-- 1 liter of water
-- honey or lemon (optional)
-  
-  **instructions**:
-  1. rinse the fir needles thoroughly.
-  2. bring the water to a boil in a pot.
-  3. add the fir needles to the boiling water and reduce the heat.
-  4. let the needles simmer for about 10-15 minutes.
-  5. strain the tea into a cup.
-  6. add honey or lemon to taste, if desired.
-  
-  **uses**:
-- boosts the immune system due to high vitamin c content.
-- helps alleviate respiratory issues like coughs and colds.
+		- 1 liter of water
+		- honey or lemon (optional)
+	- **instructions**:
+		- 1. rinse the fir needles thoroughly.
+		- 2. bring the water to a boil in a pot.
+		- 3. add the fir needles to the boiling water and reduce the heat.
+		- 4. let the needles simmer for about 10-15 minutes.
+		- 5. strain the tea into a cup.
+		- 6. add honey or lemon to taste, if desired.
+	- **uses**:
+		- boosts the immune system due to high vitamin c content.
+		- helps alleviate respiratory issues like coughs and colds.
 - #### 2. siberian fir essential oil salve
-  
-  **ingredients**:
+	- **ingredients**:
 - 1/4 cup siberian fir essential oil
 - 1/2 cup coconut oil
 - 1/4 cup beeswax pellets
