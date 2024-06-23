@@ -3,9 +3,9 @@
 	- **diseases caused by streptococcus species:**
 		- 1. **streptococcus pyogenes (group a streptococcus):**
 			- **[[pharyngitis]] (strep throat):** characterized by [[sore throat]], [[fever]], and [[swollen lymph nodes]].
-			- **scarlet fever:** marked by a red rash, fever, and sore throat.
-			- **impetigo:** a contagious skin infection causing sores and blisters.
-			- **necrotizing fasciitis:** a severe infection causing tissue death, often referred to as "flesh-eating disease."
+			- **[[scarlet fever]]:** marked by a [[red rash,]] [[fever]], and [[sore throat]].
+			- **[[impetigo]]:** a contagious [[skin infection]] causing [[sores]] and [[blisters]].
+			- **[[necrotizing fasciitis]]:** a severe infection causing tissue death, often referred to as "[[flesh-eating disease]]."
 			- **rheumatic fever:** an inflammatory disease affecting the heart, joints, and nervous system, occurring after strep throat or scarlet fever.
 			- **glomerulonephritis:** inflammation of the kidney's filtering units.
 		- 2. **streptococcus agalactiae (group b streptococcus):**
