@@ -20,11 +20,11 @@
 			- **[[candida albicans]]**: α-pinene has antifungal properties against this yeast, which can cause oral and genital infections, as well as systemic infections in immunocompromised individuals.
 			- **[[aspergillus niger]]**: effective against this fungus, which can cause respiratory infections, particularly in individuals with weakened immune systems.
 			- **[[trichophyton rubrum]]**: known for causing athlete's foot, ringworm, and other dermatophyte infections.
-			- **penicillium chrysogenum**: α-pinene can inhibit the growth of this fungus, which is important as it can produce mycotoxins that are harmful to humans.
-- #### bronchodilator effects
-  α-pinene is known for its bronchodilator effects, which means it can help expand the airways in the respiratory system. this property is particularly beneficial for patients with asthma and other respiratory conditions.
-- #### pain relief
-  due to its anti-inflammatory properties, α-pinene can also contribute to pain relief. it is often considered in the formulation of natural pain relief products.
+			- **[[penicillium chrysogenum]]**: α-pinene can inhibit the growth of this fungus, which is important as it can produce mycotoxins that are harmful to humans.
+- #### [[bronchodilator]]
+	- α-pinene is known for its bronchodilator effects, which means it can help expand the airways in the [[respiratory]] system. this property is particularly beneficial for patients with [[asthma]] and other respiratory conditions.
+- #### [[pain relief]]
+	- due to its anti-inflammatory properties, α-pinene can also contribute to pain relief. it is often considered in the formulation of natural pain relief products.
 - #### neuroprotective effects
   research suggests that α-pinene may have neuroprotective effects, which could be beneficial in preventing neurodegenerative diseases like alzheimer’s and parkinson’s disease. it may help protect brain cells from damage and improve cognitive function.
 - #### antioxidant properties
