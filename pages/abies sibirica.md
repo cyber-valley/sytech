@@ -114,29 +114,15 @@ tags:: species
 - #### 4. siberian fir steam inhalation
 	- **ingredients**:
 		- a handful of fresh or dried siberian fir needles
-	- 1 liter of boiling water
-	  
-	  **instructions**:
-	  1. place the fir needles in a large bowl.
-	  2. pour the boiling water over the needles.
-	  3. cover your head with a towel and lean over the bowl, creating a tent to trap the steam.
-	  4. inhale the steam deeply for 10-15 minutes.
-	  
-	  **uses**:
-- helps clear nasal congestion and sinusitis.
-- provides relief from respiratory issues like bronchitis and colds.
-	- #### 5. siberian fir infused oil
-	  **ingredients**:
-		- a handful of fresh or dried siberian fir needles
-		- 1 cup carrier oil (e.g., olive oil, jojoba oil)
+		- 1 liter of boiling water
 	- **instructions**:
-		- 1. rinse the fir needles thoroughly and let them dry.
-		- 2. place the needles in a clean, dry jar.
-		- 3. pour the carrier oil over the needles until they are fully submerged.
-		- 4. seal the jar tightly and place it in a warm, sunny spot for 2-4 weeks, shaking it occasionally.
-		- 5. strain the oil into a clean bottle.
-	- **uses**: use as a massage oil to relieve muscle pain.
-	- apply to the skin to soothe irritation and inflammation.
-	-
+		- 1. place the fir needles in a large bowl.
+		- 2. pour the boiling water over the needles.
+		- 3. cover your head with a towel and lean over the bowl, creating a tent to trap the steam.
+		- 4. inhale the steam deeply for 10-15 minutes.
+	- **uses**:
+		- helps clear nasal congestion and sinusitis.
+		- provides relief from respiratory issues like bronchitis and colds.
+		-
 - ![image.png](../assets/image_1717253759760_0.png){:height 391, :width 584}
 -
