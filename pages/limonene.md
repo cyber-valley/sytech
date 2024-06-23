@@ -26,11 +26,11 @@
 	- ### [[anti-inflammatory]]
 		- limonene exhibits anti-inflammatory properties, which can be beneficial in reducing inflammation and associated pain. this makes it useful in conditions such as arthritis and other inflammatory diseases.
 	- ### [[anti-cancer]] potential:
-		- research has indicated that limonene may have anticancer properties. it has been found to induce apoptosis (programmed cell death) in cancer cells and inhibit tumor growth. this has been observed in various types of cancers, including breast, colorectal, and prostate cancers.
+		- research has indicated that limonene may have anticancer properties. it has been found to induce apoptosis (programmed cell death) in cancer cells and inhibit tumor growth. this has been observed in various types of cancers, including breast can, colorectal, and prostate cancers.
 	- ### [[antioxidant]]
-		- limonene is a potent antioxidant, which helps in neutralizing free radicals in the body. this can prevent oxidative stress and reduce the risk of chronic diseases such as heart disease and neurodegenerative disorders.
+		- limonene is a potent antioxidant, which helps in neutralizing free radicals in the body. this can prevent oxidative stress and reduce the risk of chronic diseases such as [[heart disease]] and [[neurodegenerative disorders]].
 	- ### [[digestive]] aid:
-		- limonene has been traditionally used to relieve symptoms of gastrointestinal distress, such as acid reflux and indigestion. it helps in promoting healthy digestion and can alleviate symptoms of bloating and stomach discomfort.
+		- limonene has been traditionally used to relieve symptoms of gastrointestinal distress, such as [[acid reflux]] and [[indigestion]]. it helps in promoting healthy digestion and can alleviate symptoms of [[bloating]] and [[stomach discomfort]].
 	- ### potential in [[skin care]]
 		- due to its anti-inflammatory and antimicrobial properties, limonene is used in various skin care products. it can help in treating [[acne]], [[eczema]], and other skin conditions by reducing inflammation and preventing bacterial infections.
 - ## research links:
