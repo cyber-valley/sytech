@@ -1,10 +1,12 @@
+- ![Α-Pinene.pdf](../assets/Α-Pinene_1719122884582_0.pdf)
+-
 - α-pinene is a naturally occurring organic compound belonging to the terpene class. it is one of the most common [[terpenes]] found in nature and is notably present in the oils of many coniferous trees, particularly pine trees. here is a detailed overview of its medicinal uses and chemical information:
 - #### chemical information
-- **chemical formula**: c10h16
-- **molecular weight**: 136.24 g/mol
-- **boiling point**: 156-157 °c (313-315 °f)
-- **density**: 0.858 g/cm³
-- **structure**: α-pinene has a bicyclic structure with a reactive double bond.
+	- **chemical formula**: c10h16
+	- **molecular weight**: 136.24 g/mol
+	- **boiling point**: 156-157 °c (313-315 °f)
+	- **density**: 0.858 g/cm³
+	- **structure**: α-pinene has a bicyclic structure with a reactive double bond.
 - ### medicinal uses of α-pinene
 - #### [[anti-inflammatory]] properties
 	- α-pinene has demonstrated significant anti-inflammatory effects. this makes it potentially useful for treating conditions such as [[arthritis]], inflammatory [[bowel disease]], and other inflammatory disorders.
@@ -41,6 +43,4 @@
 	- **anti-inflammatory and antimicrobial properties**: a study published in the journal of natural medicines highlighted α-pinene’s efficacy against a range of bacterial strains and its potential in reducing inflammation. ([source](https://link.springer.com/article/10.1007/s11418-008-0305-x))
 	- **bronchodilator and antioxidant effects**: research published in phytotherapy research demonstrated α-pinene’s effectiveness in improving respiratory function and its antioxidant activity. ([source](https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.2041))
 - ### conclusion
-  α-pinene is a versatile terpene with a wide range of potential medicinal uses, from anti-inflammatory and antimicrobial effects to bronchodilator and neuroprotective properties. its inclusion in various medicinal formulations and therapeutic practices continues to be supported by ongoing research, making it a promising natural compound in the field of medicine.
-  
-  if you have any more specific questions or need further details, feel free to ask!
+	- α-pinene is a versatile terpene with a wide range of potential medicinal uses, from anti-inflammatory and antimicrobial effects to bronchodilator and neuroprotective properties. its inclusion in various medicinal formulations and therapeutic practices continues to be supported by ongoing research, making it a promising natural compound in the field of medicine.
