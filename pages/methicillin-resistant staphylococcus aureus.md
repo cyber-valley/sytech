@@ -8,8 +8,8 @@ alias:: mrsa
 	- 3. **[[respiratory infections:]]** can cause [[pneumonia]], especially in individuals with chronic lung diseases or those on mechanical ventilation.
 	- 4. **[[bacteremia]]:** bloodstream infections that can lead to sepsis, a life-threatening systemic response to infection.
 	- 5. **[[endocarditis]]:** infection of the heart's inner lining, particularly dangerous and difficult to treat.
-	- 6. **osteomyelitis:** infection of the bone, often following trauma or surgery.
-	- 7. **septic arthritis:** infection of the joints, leading to pain, swelling, and reduced joint function.
+	- 6. **[[osteomyelitis]]:** infection of the bone, often following trauma or surgery.
+	- 7. **[[septic arthritis]]:** infection of the joints, leading to pain, swelling, and reduced joint function.
 - **habitats and transmission:**
 	- **human body:** can be found on the skin, in the nose, and on mucous membranes of healthy individuals without causing infection (colonization).
 	- **healthcare settings:** commonly transmitted in hospitals and long-term care facilities through direct contact with infected or colonized individuals, healthcare workers, or contaminated surfaces and equipment.
