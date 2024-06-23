@@ -65,6 +65,5 @@
 	- 3. **lipid metabolism:**
 		- an article in the *journal of medicinal food* discussed camphene’s role in reducing cholesterol levels and improving lipid profiles in animal studies. [link to study](https://www.liebertpub.com/doi/abs/10.1089/jmf.2006.038)
 - ### conclusion
-  
-  camphene is a versatile compound with several potential medical applications. its anti-inflammatory, antioxidant, antimicrobial, and lipid-regulating properties make it a valuable compound for further research and development in pharmaceuticals and natural health products. however, more clinical studies are needed to fully understand its efficacy and safety in human health.
+	- camphene is a versatile compound with several potential medical applications. its anti-inflammatory, antioxidant, antimicrobial, and lipid-regulating properties make it a valuable compound for further research and development in pharmaceuticals and natural health products. however, more clinical studies are needed to fully understand its efficacy and safety in human health.
 -
