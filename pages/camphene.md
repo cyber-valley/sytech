@@ -30,15 +30,15 @@
 		- generally non-pathogenic but can cause food spoilage and has been linked to foodborne illness.
 	- **[[listeria monocytogenes]]**
 		- causes listeriosis, a serious infection usually caused by eating contaminated food.
-	- **methicillin-resistant staphylococcus aureus (mrsa)**
+	- **[[methicillin-resistant staphylococcus aureus]] (mrsa)**
 		- a type of staph bacteria that's resistant to many antibiotics and can cause severe infections.
 	- #### fungi
-	- **candida albicans**
-		- a common cause of fungal infections, especially oral and genital infections (candidiasis).
-	- **aspergillus niger**
-		- associated with lung infections and can cause aspergillosis, particularly in immunocompromised individuals.
-	- **penicillium notatum**
-		- known for its role in the production of the antibiotic penicillin, but can also cause food spoilage.
+		- **[[candida albicans]]**
+			- a common cause of fungal infections, especially oral and genital infections (candidiasis).
+		- **[[aspergillus niger]]**
+			- associated with lung infections and can cause aspergillosis, particularly in immunocompromised individuals.
+		- **[[penicillium notatum]]**
+			- known for its role in the production of the antibiotic penicillin, but can also cause food spoilage.
 	- **trichophyton mentagrophytes**
 		- responsible for athlete's foot, ringworm, and other dermatophytic infections.
 	- **cryptococcus neoformans**
