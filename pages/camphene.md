@@ -17,6 +17,41 @@
 - #### 3. [[antimicrobial]] activity
   camphene has been found to possess antimicrobial properties against a range of bacteria and fungi. this makes it potentially useful in treating infections and as a preservative in pharmaceutical formulations.
 - **mechanism:** it disrupts the cell membranes of microbes, leading to their death.
+	- #### bacteria
+	- **staphylococcus aureus**
+		- common cause of skin infections, respiratory infections, and food poisoning.
+	- **escherichia coli**
+		- can cause urinary tract infections, gastroenteritis, and neonatal meningitis.
+	- **pseudomonas aeruginosa**
+		- known for causing infections in the blood, lungs (pneumonia), and other parts of the body after surgery.
+	- **salmonella typhimurium**
+		- associated with food poisoning and gastroenteritis.
+	- **bacillus subtilis**
+		- generally non-pathogenic but can cause food spoilage and has been linked to foodborne illness.
+	- **listeria monocytogenes**
+		- causes listeriosis, a serious infection usually caused by eating contaminated food.
+	- **methicillin-resistant staphylococcus aureus (mrsa)**
+		- a type of staph bacteria that's resistant to many antibiotics and can cause severe infections.
+	- #### fungi
+	- **candida albicans**
+		- a common cause of fungal infections, especially oral and genital infections (candidiasis).
+	- **aspergillus niger**
+		- associated with lung infections and can cause aspergillosis, particularly in immunocompromised individuals.
+	- **penicillium notatum**
+		- known for its role in the production of the antibiotic penicillin, but can also cause food spoilage.
+	- **trichophyton mentagrophytes**
+		- responsible for athlete's foot, ringworm, and other dermatophytic infections.
+	- **cryptococcus neoformans**
+		- causes cryptococcosis, which can affect the lungs and central nervous system, particularly in immunocompromised individuals.
+	- ### mechanism of action
+	  
+	  camphene exerts its antimicrobial effects by disrupting the cell membranes of these microbes, leading to their death. it may also interfere with the replication and metabolism of the pathogens.
+	- ### research and evidence
+	- **antibacterial activity:**
+		- a study published in *phytotherapy research* reported camphene’s effectiveness against a variety of bacterial strains. [link to study](https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.2046)
+	- **antifungal activity:**
+		- research in *mycoses* highlighted camphene’s antifungal properties against various fungal pathogens. [link to study](https://onlinelibrary.wiley.com/doi/abs/10.1111/myc.12097)
+-
 - #### 4. lipid metabolism regulation
   studies suggest that camphene can help regulate lipid metabolism. it has been shown to reduce blood cholesterol levels, which can be beneficial in managing cardiovascular diseases.
 - **mechanism:** it affects lipid metabolism pathways and reduces the synthesis of cholesterol in the liver.
