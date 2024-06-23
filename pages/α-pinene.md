@@ -32,18 +32,14 @@
 - #### potential synergy with other compounds
 	- α-pinene can interact synergistically with other terpenes and [[cannabinoids]]. in the context of cannabis, for instance, α-pinene may enhance the therapeutic effects of other compounds and contribute to the entourage effect.
 - ### applications and delivery methods
-  
-  1. **essential oils**: α-pinene is a major component in many essential oils, which can be used in aromatherapy to promote relaxation and respiratory health.
-  
-  2. **topical applications**: due to its antimicrobial and anti-inflammatory properties, α-pinene is often included in creams, ointments, and balms for skin conditions and localized pain relief.
-  
-  3. **inhalation**: inhalation of α-pinene, either through essential oils or other inhalants, can help with respiratory conditions due to its bronchodilator effects.
-  
-  4. **oral supplements**: α-pinene is sometimes included in dietary supplements aimed at providing antioxidant support and reducing inflammation.
+	- 1. **essential oils**: α-pinene is a major component in many essential oils, which can be used in aromatherapy to promote relaxation and respiratory health.
+	- 2. **topical applications**: due to its antimicrobial and anti-inflammatory properties, α-pinene is often included in creams, ointments, and balms for skin conditions and localized pain relief.
+	- 3. **inhalation**: inhalation of α-pinene, either through essential oils or other inhalants, can help with respiratory conditions due to its bronchodilator effects.
+	- 4. **oral supplements**: α-pinene is sometimes included in dietary supplements aimed at providing antioxidant support and reducing inflammation.
 - ### research and studies
-  numerous studies have explored the medicinal potential of α-pinene. here are a few key findings:
-- **anti-inflammatory and antimicrobial properties**: a study published in the journal of natural medicines highlighted α-pinene’s efficacy against a range of bacterial strains and its potential in reducing inflammation. ([source](https://link.springer.com/article/10.1007/s11418-008-0305-x))
-- **bronchodilator and antioxidant effects**: research published in phytotherapy research demonstrated α-pinene’s effectiveness in improving respiratory function and its antioxidant activity. ([source](https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.2041))
+	- numerous studies have explored the medicinal potential of α-pinene. here are a few key findings:
+	- **anti-inflammatory and antimicrobial properties**: a study published in the journal of natural medicines highlighted α-pinene’s efficacy against a range of bacterial strains and its potential in reducing inflammation. ([source](https://link.springer.com/article/10.1007/s11418-008-0305-x))
+	- **bronchodilator and antioxidant effects**: research published in phytotherapy research demonstrated α-pinene’s effectiveness in improving respiratory function and its antioxidant activity. ([source](https://onlinelibrary.wiley.com/doi/abs/10.1002/ptr.2041))
 - ### conclusion
   α-pinene is a versatile terpene with a wide range of potential medicinal uses, from anti-inflammatory and antimicrobial effects to bronchodilator and neuroprotective properties. its inclusion in various medicinal formulations and therapeutic practices continues to be supported by ongoing research, making it a promising natural compound in the field of medicine.
   
