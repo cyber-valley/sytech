@@ -2,8 +2,8 @@
 - aspergillus niger is a species of fungus commonly found in the environment, particularly in soil and decaying organic matter. it is known for its industrial applications but can also cause infections, particularly in immunocompromised individuals.
 	- **diseases caused by aspergillus niger:**
 	- 1. **aspergillosis:** a range of infections caused by aspergillus species, including aspergillus niger.
-		- **allergic bronchopulmonary aspergillosis (abpa):** an allergic reaction in the lungs, more commonly seen in individuals with asthma or cystic fibrosis.
-		- **aspergilloma (fungus ball):** a mass of fungal hyphae that can form in pre-existing lung cavities, leading to symptoms such as coughing and hemoptysis (coughing up blood).
+		- [[allergic bronchopulmonary aspergillosis]] **(abpa):** an [[allergic reaction in the lungs]], more commonly seen in individuals with [[asthma]] or [[cystic fibrosis]].
+		- **[[aspergilloma]] (fungus ball):** a mass of fungal hyphae that can form in pre-existing lung cavities, leading to symptoms such as [[coughing]] and [[hemoptysis]] (coughing up blood).
 		- **invasive aspergillosis:** a severe infection where the fungus invades and damages tissues, primarily affecting immunocompromised individuals, leading to severe lung infections and potentially spreading to other organs such as the brain and heart.
 	- 2. **otomycosis (ear infection):** a fungal infection of the outer ear canal, often resulting in itching, pain, and discharge. it is more common in warm and humid climates.
 	- 3. **keratitis:** infection of the cornea, often associated with contact lens use or eye trauma, leading to pain, redness, and vision problems.
