@@ -6,30 +6,29 @@ tags:: species
 -
 - ![Abies_sibirica.pdf](../assets/Abies_sibirica_1719038767754_0.pdf)
 - ### review of abies sibirica (siberian fir)
-  
-  abies sibirica, commonly known as the siberian fir, is a coniferous tree native to siberia and parts of northeastern europe. this evergreen tree is known for its aromatic needles and essential oils. it grows in cold, temperate climates and has several uses in various industries.
+	- abies sibirica, commonly known as the siberian fir, is a coniferous tree native to siberia and parts of northeastern europe. this evergreen tree is known for its aromatic needles and essential oils. it grows in cold, temperate climates and has several uses in various industries.
 - #### parts of the plant and their uses
-- **root**: not commonly used commercially or medicinally.
-- **stem**: primarily used for timber and construction.
-- **fruit (cones)**: used for extracting essential oils and resins.
-- **leave (needles)**: used for extracting essential oils, which have antimicrobial and anti-inflammatory properties.
-- **bark**: used for extracting tannins and other compounds with medicinal properties.
-- **flower**: not typically used as siberian fir produces cones, not flowers.
+	- **root**: not commonly used commercially or medicinally.
+	- **stem**: primarily used for timber and construction.
+	- **fruit (cones)**: used for extracting essential oils and resins.
+	- **leave (needles)**: used for extracting essential oils, which have antimicrobial and anti-inflammatory properties.
+	- **bark**: used for extracting tannins and other compounds with medicinal properties.
+	- **flower**: not typically used as siberian fir produces cones, not flowers.
 - #### uses
-- **plants/fruits**: cones are used for extracting essential oils and resins.
-- **plants/greens**: needles are used for essential oil extraction and sometimes for medicinal purposes.
-- **plants/resins**: resins from the tree are used in traditional medicine and for making varnishes and adhesives.
-- **plants/timber**: the wood is used in construction, furniture making, and paper production.
-- **plants/medicine**: essential oils from needles and resins have antimicrobial, anti-inflammatory, and analgesic properties.
-- **plants/fuel**: timber can be used as firewood.
+	- **plants/fruits**: cones are used for extracting essential oils and resins.
+	- **plants/greens**: needles are used for essential oil extraction and sometimes for medicinal purposes.
+	- **plants/resins**: resins from the tree are used in traditional medicine and for making varnishes and adhesives.
+	- **plants/timber**: the wood is used in construction, furniture making, and paper production.
+	- **plants/medicine**: essential oils from needles and resins have antimicrobial, anti-inflammatory, and analgesic properties.
+	- **plants/fuel**: timber can be used as firewood.
 - #### data
-- **sun requirements**: full sun to partial shade.
-- **water requirements**: moderate; prefers well-drained soils and regular watering.
-- **soil ph**: slightly acidic to neutral (ph 5.5-7).
-- **plant/roles in permaculture guilds**: can serve as a windbreak, provides habitat for wildlife, and its needles can be used as mulch.
-- **spacing in meter**: 4-6 meters apart.
-- **germination days**: 30-60 days.
-- **strata**: canopy layer in permaculture designs.
+	- **sun requirements**: full sun to partial shade.
+	- **water requirements**: moderate; prefers well-drained soils and regular watering.
+	- **soil ph**: slightly acidic to neutral (ph 5.5-7).
+	- **plant/roles in permaculture guilds**: can serve as a windbreak, provides habitat for wildlife, and its needles can be used as mulch.
+	- **spacing in meter**: 4-6 meters apart.
+	- **germination days**: 30-60 days.
+	- **strata**: canopy layer in permaculture designs.
 - height: 30-35 meters
 - **days to maturity**: 15-20 years for full maturity.
 - **plant, harvest, pruning calendar in months**:
