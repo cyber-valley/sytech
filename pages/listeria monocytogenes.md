@@ -4,9 +4,9 @@
 		- 1. **listeriosis:** a range of infections caused by listeria monocytogenes.
 			- **[[febrile gastroenteritis]]:** mild form of listeriosis with symptoms like [[fever]], [[muscle aches]], [[nausea]], and [[diarrhea]].
 			- **[[invasive listeriosis]]:** more severe form that can lead to [[bacteremia]] and [[meningitis]]. symptoms include [[headache]], [[stiff neck]], [[confusion]], [[loss of balance]], and [[convulsions]].
-			- **pregnancy-related listeriosis:** can cause miscarriage, stillbirth, premature delivery, or life-threatening infection in the newborn.
-			- **meningitis:** inflammation of the membranes covering the brain and spinal cord, particularly in newborns, elderly, or immunocompromised individuals.
-			- **septicemia:** bloodstream infection leading to sepsis, a life-threatening systemic response to infection.
+			- **[[pregnancy-related listeriosis]]:** can cause [[miscarriage]], [[stillbirth]], [[premature delivery]], or life-threatening infection in the newborn.
+			- **[[meningitis]]:** inflammation of the membranes covering the brain and spinal cord, particularly in newborns, elderly, or immunocompromised individuals.
+			- **[[septicemia]]:** bloodstream infection leading to sepsis, a life-threatening systemic response to infection.
 	- **habitats and transmission:**
 		- **environment:** found in soil, water, decaying vegetation, and animal feces.
 		- **food:** commonly associated with raw or contaminated food products, including unpasteurized dairy products, soft cheeses, deli meats, hot dogs, smoked seafood, and raw vegetables.
