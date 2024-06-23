@@ -2,10 +2,10 @@
 - cryptococcus neoformans is a pathogenic yeast (fungus) that primarily affects individuals with weakened immune systems. it is known for causing serious infections, particularly in people with hiv/aids, but can also affect those with other immunocompromising conditions.
 	- **diseases caused by cryptococcus neoformans:**
 		- 1. **cryptococcosis:** a broad term for infections caused by this yeast, which can affect various parts of the body.
-			- **cryptococcal meningitis:** the most common and serious form, involving infection of the membranes covering the brain and spinal cord. symptoms include headache, fever, neck stiffness, nausea, vomiting, and altered mental status.
-		- **pulmonary cryptococcosis:** infection of the lungs, leading to cough, chest pain, shortness of breath, and fever. it can mimic pneumonia or tuberculosis.
-		- **cutaneous cryptococcosis:** skin infections presenting as ulcers, nodules, or papules, often on the face and neck.
-		- **disseminated cryptococcosis:** occurs when the infection spreads from the lungs to other parts of the body, including the skin, bones, and organs.
+			- **[[cryptococcal meningitis]]:** the most common and serious form, involving infection of the membranes covering the brain and spinal cord. symptoms include headache, fever, neck stiffness, nausea, vomiting, and altered mental status.
+			- **[[pulmonary cryptococcosis]]:** infection of the lungs, leading to cough, chest pain, shortness of breath, and fever. it can mimic pneumonia or tuberculosis.
+			- **[[cutaneous cryptococcosis]]:** skin infections presenting as [[ulcers]], [[nodules]], or [[papules]], often on the face and neck.
+			- **[[disseminated cryptococcosis]]:** occurs when the infection spreads from the lungs to other parts of the body, including the skin, bones, and organs.
 	- **habitats and transmission:**
 		- **environment:** found in soil, particularly soil contaminated with bird droppings (especially pigeons), and in decaying wood and tree hollows.
 		- **transmission:** primarily occurs through inhalation of airborne fungal spores from the environment. it is not transmitted from person to person.
