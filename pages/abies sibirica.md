@@ -148,10 +148,7 @@ tags:: species
   4. seal the jar tightly and place it in a warm, sunny spot for 2-4 weeks, shaking it occasionally.
   5. strain the oil into a clean bottle.
   
-  **uses**:
-- use as a massage oil to relieve muscle pain.
+  **uses**: use as a massage oil to relieve muscle pain.
 - apply to the skin to soothe irritation and inflammation.
-  
-  these traditional medicine recipes utilize the beneficial properties of abies sibirica to support health and well-being. as with any natural remedy, it's important to consult with a healthcare professional before use, especially if you have any underlying health conditions or are pregnant or breastfeeding.
 - ![image.png](../assets/image_1717253759760_0.png){:height 391, :width 584}
 -
