@@ -1,0 +1,2 @@
+- ![Staphylococcus_aureus.pdf](../assets/Staphylococcus_aureus_1719124395072_0.pdf)
+-
