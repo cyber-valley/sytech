@@ -7,9 +7,9 @@
 	- 2. **[[urinary tract infections]] (utis):** often associated with catheter use in healthcare settings.
 	- 3. **wound and burn infections:** can cause severe infections in [[wounds]], [[burns]], and [[surgical site]]s, leading to delayed healing and complications.
 	- 4. **[[bacteremia]]:** bloodstream infections that can lead to sepsis, particularly in immunocompromised or critically ill patients.
-	- 5. **endocarditis:** infection of the heart's inner lining, particularly in intravenous drug users or those with pre-existing heart conditions.
-	- 6. **otitis externa (swimmer's ear):** infection of the outer ear canal, common in swimmers and individuals with ear trauma or chronic skin conditions.
-	- 7. **keratitis:** infection of the cornea, often associated with contact lens use or eye trauma.
+	- 5. **[[endocarditis]]:** infection of the heart's inner lining, particularly in intravenous drug users or those with pre-existing heart conditions.
+	- 6. **[[otitis externa]] (swimmer's ear):** infection of the[[outer ear canal]] , common in swimmers and individuals with ear trauma or chronic skin conditions.
+	- 7. **[[keratitis]]:** infection of the cornea, often associated with contact lens use or eye trauma.
 	- 8. **bone and joint infections:** can occur following surgery or trauma, particularly in immunocompromised individuals.
 	- **habitats and transmission:**
 - **environment:** found in soil, water, plants, and moist environments. it can thrive in various environments, including hospitals, due to its resistance to disinfectants and ability to form biofilms.
