@@ -6,10 +6,10 @@
 - **density**: 0.858 g/cm³
 - **structure**: α-pinene has a bicyclic structure with a reactive double bond.
 - ### medicinal uses of α-pinene
-- #### anti-inflammatory properties
-  α-pinene has demonstrated significant anti-inflammatory effects. this makes it potentially useful for treating conditions such as arthritis, inflammatory bowel disease, and other inflammatory disorders.
-- #### antimicrobial activity
-  studies have shown that α-pinene possesses antimicrobial properties, effective against a range of bacteria and fungi. this makes it a potential candidate for use in disinfectants, antiseptics, and in treating bacterial and fungal infections.
+- #### [[anti-inflammatory]] properties
+	- α-pinene has demonstrated significant anti-inflammatory effects. this makes it potentially useful for treating conditions such as [[arthritis]], inflammatory bowel disease, and other inflammatory disorders.
+- #### [[antimicrobial]] activity
+	- studies have shown that α-pinene possesses antimicrobial properties, effective against a range of bacteria and fungi. this makes it a potential candidate for use in disinfectants, antiseptics, and in treating bacterial and fungal infections.
 - #### bronchodilator effects
   α-pinene is known for its bronchodilator effects, which means it can help expand the airways in the respiratory system. this property is particularly beneficial for patients with asthma and other respiratory conditions.
 - #### pain relief
