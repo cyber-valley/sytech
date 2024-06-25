@@ -1,3 +1,4 @@
+-
 - salmonella typhimurium is a gram-negative bacterium that is one of the most common causes of foodborne illness worldwide. it is a serotype of the species salmonella enterica and can cause a range of gastrointestinal diseases.
 - **diseases caused by salmonella typhimurium:**
 	- 1. **[[gastroenteritis]]:** the most common illness caused by salmonella typhimurium, characterized by diarrhea, abdominal cramps, fever, nausea, and vomiting. symptoms usually appear 6 to 72 hours after ingestion of contaminated food or water and typically last 4 to 7 days.
