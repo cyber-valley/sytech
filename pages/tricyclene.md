@@ -12,9 +12,9 @@
 	- tricyclene has been studied for its antimicrobial properties, although it is not widely used in mainstream medicine. it is more commonly found in the context of essential oils and traditional medicine practices.
 	- **antimicrobial activity**:
 		- **bacteria**:
-	- *[[staphylococcus aureus]]* [link on medical research paper](https://scholar.google.com/scholar?q=tricyclene+antimicrobial+activity)
-- **{escherichia coli}** [link on medical research paper](https://scholar.google.com/scholar?q=tricyclene+antimicrobial+activity)
-- **fungi**:
+			- **[[staphylococcus aureus]]** [link on medical research paper](https://scholar.google.com/scholar?q=tricyclene+antimicrobial+activity)
+			- **[[escherichia coli]]** [link on medical research paper](https://scholar.google.com/scholar?q=tricyclene+antimicrobial+activity)
+		- **fungi**:
 - *candida albicans* [link on medical research paper](https://scholar.google.com/scholar?q=tricyclene+antimicrobial+activity)
   
   for detailed studies and research on the antimicrobial properties of tricyclene, you can refer to sources available on google scholar [here](https://scholar.google.com/scholar?q=tricyclene+antimicrobial+activity).
