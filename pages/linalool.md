@@ -9,15 +9,14 @@
 	- **optical rotation:** (+)-linalool has [α]D +20.4°
 	- **chemical formula:** C10H18O
 - **usefulness in medicine:**
-  linalool has been investigated for various medicinal properties. it is known for its potential use as an antimicrobial agent, anxiolytic, and anticonvulsant.
+	- linalool has been investigated for various medicinal properties. it is known for its potential use as an antimicrobial agent, anxiolytic, and anticonvulsant.
 - **antibacterial properties:**
-  linalool exhibits antibacterial activity against several types of bacteria. research has shown its effectiveness in inhibiting the growth of various bacterial strains.
+	- linalool exhibits antibacterial activity against several types of bacteria. research has shown its effectiveness in inhibiting the growth of various bacterial strains.
 - **bacteria:**
-- **escherichia coli**
-- **staphylococcus aureus**
-- **pseudomonas aeruginosa**
-- **antifungal properties:**
-  linalool has demonstrated antifungal activity, making it useful in treating infections caused by fungi.
+	- **escherichia coli**
+	- **staphylococcus aureus**
+	- **pseudomonas aeruginosa**
+- **fungi:
 - **fungi:**
 - **candida albicans**
 - **aspergillus niger**
