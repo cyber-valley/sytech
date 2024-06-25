@@ -1,21 +1,17 @@
 - ![Myrcene.pdf](../assets/Myrcene_1719296526716_0.pdf)
 - **general description about myrcene:**
-  myrcene is a naturally occurring monoterpene hydrocarbon found in essential oils of various plants such as bay, ylang-ylang, wild thyme, parsley, and cannabis. it has a pleasant aroma often described as earthy, musky, and herbal with hints of citrus. myrcene is widely used in the fragrance and flavor industry.
-  
-  **chemical properties:**
-- **molecular weight**: 136.24 g/mol
-- **density**: 0.794 g/cm³
-- **boiling point**: 166-168 °c (331-334 °f)
-- **solubility**: insoluble in water, soluble in alcohol and oils
-- **optical rotation**: typically not specified for myrcene as it is not chiral
-- **chemical formula**: C10H16
-  
-  **usefulness in medicine:**
-  myrcene is noted for its analgesic (pain-relieving), anti-inflammatory, and sedative properties. it also enhances the absorption of other terpenes and cannabinoids, contributing to the entourage effect in cannabis products. myrcene is being studied for its potential therapeutic benefits in pain management and inflammation reduction.
-  
-  **antibacterial and antimicrobial activity:**
-  myrcene has shown antimicrobial properties, particularly against certain bacteria and fungi. studies indicate that myrcene can inhibit the growth of bacteria such as staphylococcus aureus and fungi like candida albicans. it also exhibits antifungal activity against fusarium species, which are known for causing food spoilage.
-  
-  **research links:**
+	- myrcene is a naturally occurring [[monoterpene]] hydrocarbon found in essential oils of various plants such as bay, ylang-ylang, wild thyme, parsley, and cannabis. it has a pleasant aroma often described as earthy, musky, and herbal with hints of citrus. myrcene is widely used in the fragrance and flavor industry.
+- **chemical properties:**
+	- **molecular weight**: 136.24 g/mol
+	- **density**: 0.794 g/cm³
+	- **boiling point**: 166-168 °c (331-334 °f)
+	- **solubility**: insoluble in water, soluble in alcohol and oils
+	- **optical rotation**: typically not specified for myrcene as it is not chiral
+	- **chemical formula**: C10H16
+- **usefulness in medicine:**
+	- myrcene is noted for its [[analgesic effects]] (pain-relieving), anti-inflammatory, and sedative properties. it also enhances the absorption of other terpenes and cannabinoids, contributing to the entourage effect in cannabis products. myrcene is being studied for its potential therapeutic benefits in pain management and inflammation reduction.
+- **antibacterial and antimicrobial activity:**
+	- myrcene has shown antimicrobial properties, particularly against certain bacteria and fungi. studies indicate that myrcene can inhibit the growth of bacteria such as staphylococcus aureus and fungi like candida albicans. it also exhibits antifungal activity against fusarium species, which are known for causing food spoilage.
+- **research links:**
 - [antibacterial activity of terpenes and terpenoids present in essential oils](https://www.mdpi.com/1420-3049/24/13/2471)
 - [antifungal activities of myrcene on fusarium species](https://link.springer.com/article/10.1007/s11274-007-9568-4)
