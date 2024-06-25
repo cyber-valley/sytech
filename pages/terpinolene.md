@@ -1,5 +1,5 @@
 - **general description**:
-	- terpinolene is a naturally occurring monoterpene. it is one of the many isomeric forms of terpinene and has a pleasant aroma often described as piney or floral. it is commonly found in the essential oils of a variety of plants, including sage, rosemary, and coniferous trees.
+	- terpinolene is a naturally occurring [[monoterpene]]. it is one of the many isomeric forms of terpinene and has a pleasant aroma often described as piney or floral. it is commonly found in the essential oils of a variety of plants, including [[sage]], [[rosemary]], and [[coniferous tree]]s.
 - **chemical properties**:
 	- **molecular weight**: 136.23 g/mol
 	- **density**: 0.858 g/cm³
@@ -17,7 +17,7 @@
 				- **[[pseudomonas aeruginosa]]**: [research on antimicrobial activity](https://scholar.google.com/scholar?q=terpinolene+antimicrobial+Pseudomonas+aeruginosa)
 			- **fungi**:
 				- **[[candida albicans]]**: [research on antifungal activity](https://scholar.google.com/scholar?q=terpinolene+antifungal+Candida+albicans)
-				- **aspergillus niger**: [research on antifungal activity](https://scholar.google.com/scholar?q=terpinolene+antifungal+Aspergillus+niger)
+				- **[[aspergillus niger]]**: [research on antifungal activity](https://scholar.google.com/scholar?q=terpinolene+antifungal+Aspergillus+niger)
 - **research links**:
 - [terpinolene and its antimicrobial properties](https://scholar.google.com/scholar?q=terpinolene+antimicrobial+properties)
 - [terpinolene: a review of its therapeutic potential](https://scholar.google.com/scholar?q=terpinolene+therapeutic+potential)
