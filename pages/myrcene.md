@@ -20,3 +20,5 @@
 - **research links:**
 - [antibacterial activity of terpenes and terpenoids present in essential oils](https://www.mdpi.com/1420-3049/24/13/2471)
 - [antifungal activities of myrcene on fusarium species](https://link.springer.com/article/10.1007/s11274-007-9568-4)
+- https://pubmed.ncbi.nlm.nih.gov/?term=myrcene#:~:text=Myrcene%3A%20A%20Natural%20Compound%20Showing%20Anticancer%20Activity%20in%20HeLa%20Cells.
+-
