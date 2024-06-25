@@ -13,8 +13,8 @@
 	- #### **bacteria**
 		- **[[staphylococcus aureus]]**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+staphylococcus+aureus)
 		- **[[escherichia coli]]**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+escherichia+coli)
-		- **pseudomonas aeruginosa**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+pseudomonas+aeruginosa)
-		- **streptococcus mutans**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+streptococcus+mutans)
+		- **[[pseudomonas aeruginosa]]**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+pseudomonas+aeruginosa)
+		- **[[streptococcus mutans]]**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+streptococcus+mutans)
 	- #### **fungi**
 		- **[[candida albicans]]**: [research link](https://scholar.google.com/scholar?q=tannins+antifungal+candida+albicans)
 		- **[[aspergillus niger]]**: [research link](https://scholar.google.com/scholar?q=tannins+antifungal+aspergillus+niger)
