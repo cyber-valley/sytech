@@ -11,7 +11,11 @@
 - **usefulness in medicine:**
 	- myrcene is noted for its [[analgesic effects]] (pain-relieving), [[anti-inflammatory]], and [[sedative]] properties. it also enhances the absorption of other [[terpenes]] and [[cannabinoids]], contributing to the [[entourage effect in cannabis]] products. myrcene is being studied for its potential therapeutic benefits in pain management and inflammation reduction.
 - **antibacterial and antimicrobial activity:**
-	- myrcene has shown antimicrobial properties, particularly against certain bacteria and fungi. studies indicate that myrcene can inhibit the growth of bacteria such as staphylococcus aureus and fungi like candida albicans. it also exhibits antifungal activity against fusarium species, which are known for causing food spoilage.
+	- **bacteria**:
+		- [staphylococcus aureus](https://www.mdpi.com/1420-3049/24/13/2471)
+	- **fungi**:
+		- [candida albicans](https://www.mdpi.com/1420-3049/24/13/2471)
+		- [fusarium species](https://link.springer.com/article/10.1007/s11274-007-9568-4)
 - **research links:**
 - [antibacterial activity of terpenes and terpenoids present in essential oils](https://www.mdpi.com/1420-3049/24/13/2471)
 - [antifungal activities of myrcene on fusarium species](https://link.springer.com/article/10.1007/s11274-007-9568-4)
