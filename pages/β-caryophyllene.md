@@ -16,10 +16,10 @@
 		- **bacteria**:
 		- [[staphylococcus aureus]] [link on medical research paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=staphylococcus+aureus+%CE%B2-caryophyllene&btnG=)
 		- [[escherichia coli]] [link on medical research paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=escherichia+coli+%CE%B2-caryophyllene&btnG=)
-		- *salmonella typhimurium* [link on medical research paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=salmonella+typhimurium+%CE%B2-caryophyllene&btnG=)
+		- [[salmonella typhimurium]] [link on medical research paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=salmonella+typhimurium+%CE%B2-caryophyllene&btnG=)
 	- **fungi**:
-		- *candida albicans* [link on medical research paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=candida+albicans+%CE%B2-caryophyllene&btnG=)
-		- *aspergillus niger* [link on medical research paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=aspergillus+niger+%CE%B2-caryophyllene&btnG=)
+		- [[candida albicans]] [link on medical research paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=candida+albicans+%CE%B2-caryophyllene&btnG=)
+		- [[aspergillus niger]] [link on medical research paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=aspergillus+niger+%CE%B2-caryophyllene&btnG=)
 - **research links**:
 - [β-caryophyllene and its anti-inflammatory properties](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=anti-inflammatory+properties+of+%CE%B2-caryophyllene&btnG=)
 - [antimicrobial activity of β-caryophyllene](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=antimicrobial+activity+of+%CE%B2-caryophyllene&btnG=)
