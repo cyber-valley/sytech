@@ -9,14 +9,14 @@
 - **chemical formula**: C₆H₈O₆
 - ### usefulness in medicine
 - vitamin c is widely recognized for its role in preventing and treating scurvy, a disease resulting from a deficiency of vitamin c. it is also used to boost the immune system, reduce the duration of common colds, and improve skin health by promoting collagen formation.
-- ### [[antibacterial]] and antimicrobial activity
+- ### [[antibacterial]] and [[antimicrobial]] activity
 - vitamin c exhibits [[antimicrobial]] properties and has been studied for its effectiveness against various pathogens:
 	- **bacteria**:
 		- **[[escherichia coli]]** [research link](https://scholar.google.com/scholar?q=Escherichia+coli+vitamin+c)
-			- **[[staphylococcus aureus]]** [research link](https://scholar.google.com/scholar?q=Staphylococcus+aureus+vitamin+c)
+		- **[[staphylococcus aureus]]** [research link](https://scholar.google.com/scholar?q=Staphylococcus+aureus+vitamin+c)
 	- **viruses**:
 		- [[influenza virus]] [research link](https://scholar.google.com/scholar?q=influenza+virus+vitamin+c)
-			- [[herpes simplex virus]] [research link](https://scholar.google.com/scholar?q=herpes+simplex+virus+vitamin+c)
+		- [[herpes simplex virus]] [research link](https://scholar.google.com/scholar?q=herpes+simplex+virus+vitamin+c)
 - ### research links
 - [vitamin c and immune function](https://scholar.google.com/scholar?q=vitamin+c+immune+function)
 - [antimicrobial properties of vitamin c](https://scholar.google.com/scholar?q=antimicrobial+properties+of+vitamin+c)
