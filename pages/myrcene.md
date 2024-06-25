@@ -9,7 +9,7 @@
 	- **optical rotation**: typically not specified for myrcene as it is not chiral
 	- **chemical formula**: C10H16
 - **usefulness in medicine:**
-	- myrcene is noted for its [[analgesic effects]] (pain-relieving), [[anti-inflammatory]], and [[sedative]] properties. it also enhances the absorption of other [[terpenes]] and [[cannabinoids]], contributing to the [[entourage effect in cannabis]] products. myrcene is being studied for its potential therapeutic benefits in pain management and inflammation reduction.
+	- myrcene is noted for its [[analgesic effects]] (pain-relieving), [[anti-inflammatory]], and [[sedative]] [[anti-cancer]] properties. it also enhances the absorption of other [[terpenes]] and [[cannabinoids]], contributing to the [[entourage effect in cannabis]] products. myrcene is being studied for its potential therapeutic benefits in pain management and inflammation reduction.
 - **antibacterial and antimicrobial activity:**
 	- **bacteria**:
 		- [[staphylococcus aureus]][link](https://www.mdpi.com/1420-3049/24/13/2471)
@@ -20,5 +20,6 @@
 - **research links:**
 - [antibacterial activity of terpenes and terpenoids present in essential oils](https://www.mdpi.com/1420-3049/24/13/2471)
 - [antifungal activities of myrcene on fusarium species](https://link.springer.com/article/10.1007/s11274-007-9568-4)
-- https://pubmed.ncbi.nlm.nih.gov/?term=myrcene#:~:text=Myrcene%3A%20A%20Natural%20Compound%20Showing%20Anticancer%20Activity%20in%20HeLa%20Cells.
+- [anticancer](https://pubmed.ncbi.nlm.nih.gov/?term=myrcene#:~:text=Myrcene%3A%20A%20Natural%20Compound%20Showing%20Anticancer%20Activity%20in%20HeLa%20Cells.)
+-
 -
