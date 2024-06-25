@@ -10,6 +10,12 @@
 	- **chemical formula**: C10H16
 - **usefulness in medicine**:
 	- tricyclene has been studied for its [[antimicrobial]] properties, although it is not widely used in mainstream medicine. it is more commonly found in the context of essential oils and traditional medicine practices.
+	- **traditional medicine practices**:
+		- tricyclene, often in the form of essential oils containing it, has been used in traditional medicine for its antimicrobial, anti-inflammatory, and aromatic properties. it is typically employed for:
+			- treating respiratory infections: inhalation of essential oils containing tricyclene can help alleviate symptoms of colds, bronchitis, and sinusitis due to its expectorant and antimicrobial effects.
+	- skin infections and wounds: tricyclene-containing oils are applied topically to disinfect cuts, wounds, and minor skin infections, leveraging its antibacterial and antifungal properties.
+	- muscle pain and inflammation: essential oils with tricyclene are used in massage therapy to relieve muscle pain and inflammation.
+	- improving mood and reducing stress: the aromatic properties of tricyclene are utilized in aromatherapy to reduce stress and improve mood.
 	- **antimicrobial activity**:
 		- **bacteria**:
 			- **[[staphylococcus aureus]]** [link on medical research paper](https://scholar.google.com/scholar?q=tricyclene+antimicrobial+activity)
