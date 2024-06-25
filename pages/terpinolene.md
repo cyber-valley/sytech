@@ -8,16 +8,16 @@
 	- **optical rotation**: -61.7° (neat)
 	- **chemical formula**: C10H16
 - **usefulness in medicine**:
-	- terpinolene has been studied for its various potential medicinal properties. it is believed to have antioxidant, anti-cancer, and antimicrobial activities.
-- **antimicrobial activity**:
-	- terpinolene has shown antimicrobial activity against several bacteria, fungi, and viruses.
-- **bacteria**:
-	- **escherichia coli**: [research on antimicrobial activity](https://scholar.google.com/scholar?q=terpinolene+antimicrobial+Escherichia+coli)
-	- **staphylococcus aureus**: [research on antimicrobial activity](https://scholar.google.com/scholar?q=terpinolene+antimicrobial+Staphylococcus+aureus)
-	- **pseudomonas aeruginosa**: [research on antimicrobial activity](https://scholar.google.com/scholar?q=terpinolene+antimicrobial+Pseudomonas+aeruginosa)
-- **fungi**:
-	- **candida albicans**: [research on antifungal activity](https://scholar.google.com/scholar?q=terpinolene+antifungal+Candida+albicans)
-	- **aspergillus niger**: [research on antifungal activity](https://scholar.google.com/scholar?q=terpinolene+antifungal+Aspergillus+niger)
+	- terpinolene has been studied for its various potential medicinal properties. it is believed to have [[antioxidant]], [[anti-cancer]], and [[antimicrobial]] activities.
+	- **antimicrobial activity**:
+		- terpinolene has shown antimicrobial activity against several bacteria, fungi, and viruses.
+			- **bacteria**:
+				- **[[escherichia coli]]**: [research on antimicrobial activity](https://scholar.google.com/scholar?q=terpinolene+antimicrobial+Escherichia+coli)
+				- **[[staphylococcus aureus]]**: [research on antimicrobial activity](https://scholar.google.com/scholar?q=terpinolene+antimicrobial+Staphylococcus+aureus)
+				- **[[pseudomonas aeruginosa]]**: [research on antimicrobial activity](https://scholar.google.com/scholar?q=terpinolene+antimicrobial+Pseudomonas+aeruginosa)
+			- **fungi**:
+				- **[[candida albicans]]**: [research on antifungal activity](https://scholar.google.com/scholar?q=terpinolene+antifungal+Candida+albicans)
+				- **aspergillus niger**: [research on antifungal activity](https://scholar.google.com/scholar?q=terpinolene+antifungal+Aspergillus+niger)
 - **research links**:
 - [terpinolene and its antimicrobial properties](https://scholar.google.com/scholar?q=terpinolene+antimicrobial+properties)
 - [terpinolene: a review of its therapeutic potential](https://scholar.google.com/scholar?q=terpinolene+therapeutic+potential)
