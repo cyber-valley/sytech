@@ -16,8 +16,10 @@
 				- inhalation of essential oils containing tricyclene can help alleviate symptoms of [[colds]], [[bronchitis]], and [[sinusitis]] due to its [[expectorant]] and [[antimicrobial]] effects.
 			- **[[skin infections]] and [[wounds]]:**
 				- tricyclene-containing oils are applied topically to disinfect cuts, wounds, and minor skin infections, leveraging its antibacterial and antifungal properties.
-	- **muscle pain and inflammation**: essential oils with tricyclene are used in massage therapy to relieve muscle pain and inflammation.
-	- improving mood and reducing stress: the aromatic properties of tricyclene are utilized in aromatherapy to reduce stress and improve mood.
+			- **[[muscle pain]] and [[inflammation]]**:
+				- essential oils with tricyclene are used in massage therapy to relieve muscle pain and inflammation.
+			- **[[improving mood]] and [[reducing stress]]**:
+				- the aromatic properties of tricyclene are utilized in aromatherapy to reduce stress and improve mood.
 	- **antimicrobial activity**:
 		- **bacteria**:
 			- **[[staphylococcus aureus]]** [link on medical research paper](https://scholar.google.com/scholar?q=tricyclene+antimicrobial+activity)
