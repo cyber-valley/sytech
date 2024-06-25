@@ -8,19 +8,19 @@
 	- **optical rotation**: varies depending on the specific tannin
 	- **chemical formula**: varies; common formulas include C76H52O46 for some hydrolyzable tannins
 - ### usefulness in medicine
-  tannins have been used in traditional medicine for their astringent, anti-inflammatory, and antimicrobial properties. they can help in wound healing and reduce inflammation. modern research has focused on their potential anticancer, antiviral, and antibacterial activities.
+	- tannins have been used in traditional medicine for their astringent, anti-inflammatory, and antimicrobial properties. they can help in wound healing and reduce inflammation. modern research has focused on their potential anticancer, antiviral, and antibacterial activities.
 - ### antimicrobial activity
-- #### **bacteria**
-- **staphylococcus aureus**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+staphylococcus+aureus)
-- **escherichia coli**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+escherichia+coli)
-- **pseudomonas aeruginosa**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+pseudomonas+aeruginosa)
-- **streptococcus mutans**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+streptococcus+mutans)
-- #### **fungi**
-- **candida albicans**: [research link](https://scholar.google.com/scholar?q=tannins+antifungal+candida+albicans)
-- **aspergillus niger**: [research link](https://scholar.google.com/scholar?q=tannins+antifungal+aspergillus+niger)
-- #### **viruses**
-- **influenza virus**: [research link](https://scholar.google.com/scholar?q=tannins+antiviral+influenza)
-- **herpes simplex virus**: [research link](https://scholar.google.com/scholar?q=tannins+antiviral+herpes+simplex)
+	- #### **bacteria**
+		- **staphylococcus aureus**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+staphylococcus+aureus)
+		- **escherichia coli**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+escherichia+coli)
+		- **pseudomonas aeruginosa**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+pseudomonas+aeruginosa)
+		- **streptococcus mutans**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+streptococcus+mutans)
+	- #### **fungi**
+		- **candida albicans**: [research link](https://scholar.google.com/scholar?q=tannins+antifungal+candida+albicans)
+		- **aspergillus niger**: [research link](https://scholar.google.com/scholar?q=tannins+antifungal+aspergillus+niger)
+	- #### **viruses**
+		- **influenza virus**: [research link](https://scholar.google.com/scholar?q=tannins+antiviral+influenza)
+		- **herpes simplex virus**: [research link](https://scholar.google.com/scholar?q=tannins+antiviral+herpes+simplex)
 - ### references
   1. [tannins: chemistry and biological properties](https://scholar.google.com/scholar?q=tannins+chemistry+biological+properties)
   2. [antimicrobial properties of tannins](https://scholar.google.com/scholar?q=antimicrobial+properties+of+tannins)
