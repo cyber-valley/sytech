@@ -9,7 +9,7 @@
 	- **optical rotation**: typically not specified for myrcene as it is not chiral
 	- **chemical formula**: C10H16
 - **usefulness in medicine:**
-	- myrcene is noted for its [[analgesic effects]] (pain-relieving), [[anti-inflammatory]], and [[sedative]] [[anti-cancer]] properties. it also enhances the absorption of other [[terpenes]] and [[cannabinoids]], contributing to the [[entourage effect in cannabis]] products. myrcene is being studied for its potential therapeutic benefits in pain management and inflammation reduction.
+	- myrcene is noted for its [[analgesic effects]] (pain-relieving), [[anti-inflammatory]] [[sedative]] , and [[anti-cancer]] properties. it also enhances the absorption of other [[terpenes]] and [[cannabinoids]], contributing to the [[entourage effect in cannabis]] products. myrcene is being studied for its potential therapeutic benefits in pain management and inflammation reduction.
 - **antibacterial and antimicrobial activity:**
 	- **bacteria**:
 		- [[staphylococcus aureus]][link](https://www.mdpi.com/1420-3049/24/13/2471)
