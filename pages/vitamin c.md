@@ -12,13 +12,12 @@
 - ### antibacterial and antimicrobial activity
 - vitamin c exhibits antimicrobial properties and has been studied for its effectiveness against various pathogens:
 - **bacteria**:
-- *scherichia coli* [research link](https://scholar.google.com/scholar?q=Escherichia+coli+vitamin+c)
-- *Staphylococcus aureus* [research link](https://scholar.google.com/scholar?q=Staphylococcus+aureus+vitamin+c)
-  
-  **viruses**:
+- **[[escherichia coli]]** [research link](https://scholar.google.com/scholar?q=Escherichia+coli+vitamin+c)
+- **[[staphylococcus aureus]]** [research link](https://scholar.google.com/scholar?q=Staphylococcus+aureus+vitamin+c)
+- **viruses**:
 - influenza virus [research link](https://scholar.google.com/scholar?q=influenza+virus+vitamin+c)
-- herpes simplex virus [research link](https://scholar.google.com/scholar?q=herpes+simplex+virus+vitamin+c)
-- ### Research Links
+- [[herpes simplex virus]] [research link](https://scholar.google.com/scholar?q=herpes+simplex+virus+vitamin+c)
+- ### research links
   
   for detailed scientific studies and research papers, refer to the following links:
 - [vitamin c and immune function](https://scholar.google.com/scholar?q=vitamin+c+immune+function)
