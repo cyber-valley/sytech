@@ -3,7 +3,7 @@
 	- 1. **[[gastroenteritis]]:** the most common illness caused by salmonella typhimurium, characterized by diarrhea, abdominal cramps, fever, nausea, and vomiting. symptoms usually appear 6 to 72 hours after ingestion of contaminated food or water and typically last 4 to 7 days.
 	- 2. ** [[bacteremia]] :** in some cases, the infection can spread to the bloodstream, leading to bacteremia. this is more likely to occur in immunocompromised individuals, infants, and the elderly.
 	- 3. ** [[localized infections]] :** after bacteremia, salmonella typhimurium can infect various body sites, including the bones (osteomyelitis), joints (septic arthritis), and the lining of the heart and valves (endocarditis).
-	- 4. ** [[enteric fever]] :** although less common than salmonella typhi (which causes typhoid fever), salmonella typhimurium can sometimes cause a similar syndrome known as enteric fever, with prolonged fever, abdominal pain, and systemic involvement.
+	- 4. ** [[enteric fever]] :** although less common than salmonella typhi (which causes [[typhoid fever]] ), salmonella typhimurium can sometimes cause a similar syndrome known as enteric fever, with prolonged fever, abdominal pain, and systemic involvement.
 - **habitats and transmission:**
 	- **environment:** found in the intestines of many animals, including birds, reptiles, and mammals. it can contaminate food and water through fecal matter.
 	- **food:** commonly associated with raw or undercooked poultry, eggs, meat, unpasteurized milk, and contaminated fruits and vegetables.
