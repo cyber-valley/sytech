@@ -1,0 +1,2 @@
+- ![Tricyclene_synthase.pdf](../assets/Tricyclene_synthase_1719301849258_0.pdf)
+-
