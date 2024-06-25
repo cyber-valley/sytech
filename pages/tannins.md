@@ -8,7 +8,7 @@
 	- **optical rotation**: varies depending on the specific tannin
 	- **chemical formula**: varies; common formulas include C76H52O46 for some hydrolyzable tannins
 - ### usefulness in medicine
-	- tannins have been used in traditional medicine for their astringent, anti-inflammatory, and antimicrobial properties. they can help in wound healing and reduce inflammation. modern research has focused on their potential anticancer, antiviral, and antibacterial activities.
+	- tannins have been used in traditional medicine for their astringent, [[anti-inflammatory]], and [[antimicrobial]] properties. they can help in [[wound healing]] and [[reduce inflammation]]. modern research has focused on their potential [[anticancer]], [[antiviral]], and [[antibacterial]] activities.
 - ### antimicrobial activity
 	- #### **bacteria**
 		- **[[staphylococcus aureus]]**: [research link](https://scholar.google.com/scholar?q=tannins+antibacterial+staphylococcus+aureus)
