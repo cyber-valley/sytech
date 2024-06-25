@@ -9,11 +9,11 @@
 	- **optical rotation**: +40° to +50°
 	- **chemical formula**: C10H16
 - **usefulness in medicine**:
-  tricyclene has been studied for its antimicrobial properties, although it is not widely used in mainstream medicine. it is more commonly found in the context of essential oils and traditional medicine practices.
-- **antimicrobial activity**:
-- **bacteria**:
-- *staphylococcus aureus* [link on medical research paper](https://scholar.google.com/scholar?q=tricyclene+antimicrobial+activity)
-- *escherichia coli* [link on medical research paper](https://scholar.google.com/scholar?q=tricyclene+antimicrobial+activity)
+	- tricyclene has been studied for its antimicrobial properties, although it is not widely used in mainstream medicine. it is more commonly found in the context of essential oils and traditional medicine practices.
+	- **antimicrobial activity**:
+		- **bacteria**:
+	- *[[staphylococcus aureus]]* [link on medical research paper](https://scholar.google.com/scholar?q=tricyclene+antimicrobial+activity)
+- **{escherichia coli}** [link on medical research paper](https://scholar.google.com/scholar?q=tricyclene+antimicrobial+activity)
 - **fungi**:
 - *candida albicans* [link on medical research paper](https://scholar.google.com/scholar?q=tricyclene+antimicrobial+activity)
   
