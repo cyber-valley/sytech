@@ -1,16 +1,11 @@
 - connected to [[edem/sectors]]
 	- [[edem/17]]
 	- [[edem/19]]
-- DONE 1: [[magnolia alba]]
-- 2: [[phyllanthus acidus]]
-- DONE 3: [[mangifera caesia]]
-- 4: [[cinnamomum camphora]]
-- 5: [[phyllanthus acidus]]
-- DONE 6: [[mangifera indica]]
-- DONE 7: [[averrhoa carambola]]
-- 8:
-- DONE 9: [[prunus armeniaca]]
-- 10: [[pyrus]]
+- [[magnolia alba]]
+- [[mangifera caesia]]
+- [[mangifera indica]]
+- [[averrhoa carambola]]
+- [[prunus armeniaca]]
 -
 - [[rosa chinensis]]
 - [[chamaecyparis pisifera]]
@@ -37,7 +32,7 @@
 - [[cryptomeria japonica]]
 - [[osmoxylon lineare]]
 - [[tradescantia pallida]]
-- [[crium asiaticum]]
+- [[crinum asiaticum]]
 - [[pouteria sapota]]
 - [[nerium oleander]]
 - [[syzygium cumini]]
@@ -95,6 +90,3 @@
 - [[torenia foureri]]
 - [[ficus carica]]
 - [[magnolia cempaka]]
--
--
--
