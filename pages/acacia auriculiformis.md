@@ -4,6 +4,7 @@ tags:: species
 - availability:: tokopedia
 - nitrogener:: 250
 - ![image.png](../assets/image_1715018454554_0.png)
+- ![image](https://ipfs.io.ipfs/Qmb2heuAztuBe8wDiUjLfQyfQCBUoxsrBwTKCB3zMM8R1K)
 - ![image.png](../assets/image_1715018548630_0.png)
 - wiki:: ![acacia_auriculiformis.pdf](../assets/acacia_auriculiformis_1719126696583_0.pdf)
 - native:: australia, papua new guinea, indonesia
@@ -38,18 +39,18 @@ tags:: species
 - **medicinal purposes**:
 - | purpose            | part of the plant | description                                                                                                   |
   |--------------------|-------------------|---------------------------------------------------------------------------------------------------------------|
-  | treating skin conditions            | bark and leaves   | used topically to treat skin irritations, wounds, and infections                                               |
-  | respiratory ailments | leaves            | have respiratory benefits and may alleviate symptoms of coughs, colds, and asthma                 |
-  | digestive issues     | various parts     | used to aid in digestion and ease stomach discomfort                                                           |
-  | anti-inflammatory properties | various parts | anti-inflammatory properties to reduce inflammation and pain                                      |
-  | wound healing | bark and leaves | used topically to promote wound healing and prevent infections                                         |
-  | antioxidant properties | various parts | antioxidant properties to protect cells from free radical damage                        |
-  | anti-microbial effects | various parts | some components may have antimicrobial properties to combat infections                                |
+  | [[treating skin]] conditions            | bark and leaves   | used topically to treat [[skin irritation]]s, [[wounds]], and [[infections]]                                               |
+  | [[respiratory ailments]] | leaves            | have respiratory benefits and may alleviate symptoms of [[coughs]], [[colds]], and [[asthma]] |
+  | [[digestive issues]]     | various parts     | used to aid in digestion and ease [[stomach discomfort]]                                                           |
+  | [[anti-inflammatory]] properties | various parts | anti-inflammatory properties to reduce [[inflammation]] and [[pain]]                                      |
+  | [[wound healing]] | bark and leaves | used topically to promote wound healing and prevent infections                                         |
+  | [[antioxidant]] properties | various parts | antioxidant properties to protect cells from [[free radical damage]]                        |
+  | [[anti-microbial]] effects | various parts | some components may have antimicrobial properties to combat infections                                |
 - ## chemical compound
 - | chemical compound  | plant part             | amount         | description                                                                                                                                             |
   |----------------------------|-----------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-  | tannins                | bark and leaves        | various           | astringent properties and may have antioxidant and antimicrobial effects                                    |
-  | flavonoids             | leaves                 | moderate          |  have antioxidant properties and may help in reducing inflammation and promoting overall health                                   |
-  | saponins               | roots, leaves, seeds   | varying           | may have anti-inflammatory and antimicrobial effects and can contribute to overall health benefits  |
-  | phenolic compounds     | bark and leaves        | various           | antioxidant properties and may help in protecting cells from damage  |
-  | alkaloids              | roots, leaves, stems, flowers  |                   | may have diverse pharmacological effects and potential health benefits                             |
+  | [[tannins]]                | bark and leaves        | various           | astringent properties and may have antioxidant and antimicrobial effects                                    |
+  | [[flavonoids]]             | leaves                 | moderate          |  have antioxidant properties and may help in reducing inflammation and promoting overall health                                   |
+  | [[saponins]]               | roots, leaves, seeds   | varying           | may have anti-inflammatory and antimicrobial effects and can contribute to overall health benefits  |
+  | [[phenolic compounds]]     | bark and leaves        | various           | antioxidant properties and may help in protecting cells from damage  |
+  | [[alkaloids]]              | roots, leaves, stems, flowers  |                   | may have diverse pharmacological effects and potential health benefits                             |
